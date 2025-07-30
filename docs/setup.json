@@ -1,0 +1,11 @@
+{
+    "id": "flowchart-template",
+    "title": "OBIS Vocabulary Decision Tree",
+    "subtitle": "A tool to assist with finding and selecting appropriate controlled vocabulary to be used eMoF",
+    "colors": {
+        "background-color": "#F2EEE6",
+        "intro-background-color": "#FFFDFA",
+        "text-color": "#4D5B80",
+        "accent-color": "#1C9E9E"
+    }
+}
