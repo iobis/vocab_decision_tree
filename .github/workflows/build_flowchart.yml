@@ -37,3 +37,11 @@ jobs:
 
     - name: Generate final SVG
       run: python src/generate_svg.py
+    
+    - name: Commit and push generated files
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions@github.com"
+        git add docs/flowchart.svg elk_input.json elk_output.json
+        git diff --staged --quiet || git commit -m "Auto-update flowchart files"
+        git push
