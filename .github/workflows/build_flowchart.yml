@@ -1,0 +1,53 @@
+name: Build Flowchart
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install elkjs
+      run: npm install elkjs
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install Python deps
+      run: pip install lxml pandas
+
+    - name: Generate ELK input
+      run: python generate_elk_input.py
+
+    - name: Run ELK layout
+      run: node run_elk.js
+
+    - name: Generate final SVG
+      run: python generate_svg.py
+
+    - name: Copy output into docs
+      run: |
+        mkdir -p docs
+        cp final_flowchart.svg docs/flowchart.svg
+        cp setup.json docs/
+        cp intro.md docs/
+        cp index.html docs/  # static HTML loader for interactive template
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
