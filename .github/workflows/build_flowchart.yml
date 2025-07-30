@@ -30,13 +30,13 @@ jobs:
       run: pip install lxml pandas
 
     - name: Generate ELK input
-      run: python generate_elk_input.py
+      run: python src/generate_elk_input.py
 
     - name: Run ELK layout
-      run: node run_elk.js
+      run: node src/run_elk.js
 
     - name: Generate final SVG
-      run: python generate_svg.py
+      run: python src/generate_svg.py
 
     - name: Copy output into docs
       run: |
