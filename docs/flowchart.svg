@@ -1,503 +1,770 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4374" height="3896" viewBox="0 0 4374 3896" fill="none">
-  <rect width="4374" height="3896" fill="#F5F5F5"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6265" height="3538" viewBox="0 0 6265 3538" fill="none">
+  <rect width="6265" height="3538" fill="#F5F5F5"/>
   <g id="Frame 58">
-    <rect width="4374" height="3896" fill="#F2EEE6"/>
+    <rect width="6265" height="3538" fill="#F2EEE6"/>
     <g id="n-059">
-      <rect width="380" height="132" transform="translate(12 3090)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(12 3090)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Browse or search by</text>
-      <text x="190" y="52" transform="translate(12 3090)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">keyword to find sampling</text>
-      <text x="190" y="80" transform="translate(12 3090)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement Keep in mind codes</text>
-      <text x="190" y="108" transform="translate(12 3090)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">names are generic</text>
+      <rect width="380" height="132" transform="translate(2764 3246)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2764 3246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Browse or search by</text>
+      <text x="190" y="52" transform="translate(2764 3246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">keyword to find sampling</text>
+      <text x="190" y="80" transform="translate(2764 3246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement Keep in mind codes</text>
+      <text x="190" y="108" transform="translate(2764 3246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">names are generic</text>
     </g>
     <g id="n-002">
-      <rect width="380" height="160" transform="translate(2999 2910)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(2999 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Check search results</text>
-      <text x="190" y="52" transform="translate(2999 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">for appropriate P01 codes,</text>
-      <text x="190" y="80" transform="translate(2999 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">while carefully considering</text>
-      <text x="190" y="108" transform="translate(2999 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">all methods used to obtain the</text>
-      <text x="190" y="136" transform="translate(2999 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement</text>
+      <rect width="380" height="160" transform="translate(4982 2494)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(4982 2494)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Check search results</text>
+      <text x="190" y="52" transform="translate(4982 2494)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">for appropriate P01 codes,</text>
+      <text x="190" y="80" transform="translate(4982 2494)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">while carefully considering</text>
+      <text x="190" y="108" transform="translate(4982 2494)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">all methods used to obtain the</text>
+      <text x="190" y="136" transform="translate(4982 2494)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement</text>
     </g>
     <g id="n-003">
-      <rect width="380" height="76" transform="translate(3109 3632)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3109 3632)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider all methods</text>
-      <text x="190" y="52" transform="translate(3109 3632)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">used to obtain the measurement</text>
+      <rect width="380" height="76" transform="translate(3785 3274)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(3785 3274)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider all methods</text>
+      <text x="190" y="52" transform="translate(3785 3274)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">used to obtain the measurement</text>
     </g>
     <g id="n-004">
-      <rect width="368" height="132" transform="translate(1900 3282)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(1900 3282)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider if the</text>
-      <text x="184" y="52" transform="translate(1900 3282)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods used to obtain the</text>
-      <text x="184" y="80" transform="translate(1900 3282)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement are integral for</text>
-      <text x="184" y="108" transform="translate(1900 3282)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">understanding the measurement</text>
+      <rect width="368" height="132" transform="translate(865 2974)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(865 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider if the</text>
+      <text x="184" y="52" transform="translate(865 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods used to obtain the</text>
+      <text x="184" y="80" transform="translate(865 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement are integral for</text>
+      <text x="184" y="108" transform="translate(865 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">understanding the measurement</text>
     </g>
     <g id="n-005">
-      <rect width="356" height="104" transform="translate(3978 2938)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(3978 2938)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider if your</text>
-      <text x="178" y="52" transform="translate(3978 2938)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">biological measurement has a</text>
-      <text x="178" y="80" transform="translate(3978 2938)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">matrix element</text>
+      <rect width="356" height="104" transform="translate(1801 2716)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(1801 2716)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider if your</text>
+      <text x="178" y="52" transform="translate(1801 2716)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">biological measurement has a</text>
+      <text x="178" y="80" transform="translate(1801 2716)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">matrix element</text>
     </g>
     <g id="n-006">
-      <rect width="380" height="188" transform="translate(2904 2692)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider the units of</text>
-      <text x="190" y="52" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">your measurements, whether a</text>
-      <text x="190" y="80" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sub-group was targeted to help</text>
-      <text x="190" y="108" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">you determine the matrix and</text>
-      <text x="190" y="136" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement-matrix</text>
-      <text x="190" y="164" transform="translate(2904 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship.</text>
+      <rect width="380" height="188" transform="translate(3734 2480)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider the units of</text>
+      <text x="190" y="52" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">your measurements, whether a</text>
+      <text x="190" y="80" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sub-group was targeted to help</text>
+      <text x="190" y="108" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">you determine the matrix and</text>
+      <text x="190" y="136" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement-matrix</text>
+      <text x="190" y="164" transform="translate(3734 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship.</text>
+      <text x="5" y="46" transform="translate(3734 2480)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
+    </g>
+    <g id="n-112">
+      <rect width="380" height="188" transform="translate(4982 2272)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Consider the units of</text>
+      <text x="190" y="52" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">your measurements, whether a</text>
+      <text x="190" y="80" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sub-group was targeted to help</text>
+      <text x="190" y="108" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">you determine the matrix and</text>
+      <text x="190" y="136" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement-matrix</text>
+      <text x="190" y="164" transform="translate(4982 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship.</text>
+      <text x="5" y="46" transform="translate(4982 2272)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
     </g>
     <g id="n-007">
-      <rect width="380" height="160" transform="translate(1323 3590)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(1323 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: If your measurement</text>
-      <text x="190" y="52" transform="translate(1323 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">occurred within a matrix,</text>
-      <text x="190" y="80" transform="translate(1323 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">consider the relationship</text>
-      <text x="190" y="108" transform="translate(1323 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">between the two (e.g. per unit</text>
-      <text x="190" y="136" transform="translate(1323 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">volume of)</text>
+      <rect width="380" height="160" transform="translate(922 3232)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(922 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: If your measurement</text>
+      <text x="190" y="52" transform="translate(922 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">occurred within a matrix,</text>
+      <text x="190" y="80" transform="translate(922 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">consider the relationship</text>
+      <text x="190" y="108" transform="translate(922 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">between the two (e.g. per unit</text>
+      <text x="190" y="136" transform="translate(922 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">volume of)</text>
     </g>
     <g id="n-008">
-      <rect width="380" height="160" transform="translate(3903 2368)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3903 2368)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Look in the search</text>
-      <text x="190" y="52" transform="translate(3903 2368)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">results for a P01 code that</text>
-      <text x="190" y="80" transform="translate(3903 2368)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">best matches your data. Use</text>
-      <text x="190" y="108" transform="translate(3903 2368)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the guiding questions below to</text>
-      <text x="190" y="136" transform="translate(3903 2368)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">help you narrow the search</text>
+      <rect width="380" height="160" transform="translate(2108 2286)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2108 2286)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: Look in the search</text>
+      <text x="190" y="52" transform="translate(2108 2286)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">results for a P01 code that</text>
+      <text x="190" y="80" transform="translate(2108 2286)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">best matches your data. Use</text>
+      <text x="190" y="108" transform="translate(2108 2286)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the guiding questions below to</text>
+      <text x="190" y="136" transform="translate(2108 2286)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">help you narrow the search</text>
     </g>
     <g id="n-009">
-      <rect width="356" height="104" transform="translate(2064 3780)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(2064 3780)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: click on link for</text>
-      <text x="178" y="52" transform="translate(2064 3780)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">conceptID and copy whole URI</text>
-      <text x="178" y="80" transform="translate(2064 3780)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">into measurement ID field</text>
+      <rect width="356" height="104" transform="translate(3762 3422)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(3762 3422)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: click on link for</text>
+      <text x="178" y="52" transform="translate(3762 3422)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">conceptID and copy whole URI</text>
+      <text x="178" y="80" transform="translate(3762 3422)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">into measurement ID field</text>
     </g>
     <g id="n-010">
-      <rect width="380" height="76" transform="translate(3634 1288)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3634 1288)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: navigate to SeaDataNet</text>
-      <text x="190" y="52" transform="translate(3634 1288)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">facet search</text>
+      <rect width="380" height="76" transform="translate(5658 966)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(5658 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: navigate to SeaDataNet</text>
+      <text x="190" y="52" transform="translate(5658 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">facet search</text>
       <a xlink:href="https://vocab.seadatanet.org/p01-facet-search" target="_blank">
-        <text x="365" y="62" transform="translate(3634 1288)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+        <text x="365" y="62" transform="translate(5658 966)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
       </a>
     </g>
     <g id="n-011">
-      <rect width="380" height="216" transform="translate(3196 1694)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for &quot;biological</text>
-      <text x="190" y="52" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">entity specified elsewhere&quot;,</text>
-      <text x="190" y="80" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">then from the Biological</text>
-      <text x="190" y="108" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Entity (S25) filter, select</text>
-      <text x="190" y="136" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological entity specified</text>
-      <text x="190" y="164" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere, including</text>
-      <text x="190" y="192" transform="translate(3196 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">subcomponent where applicable</text>
+      <rect width="380" height="216" transform="translate(2016 1626)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for &quot;biological</text>
+      <text x="190" y="52" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">entity specified elsewhere&quot;,</text>
+      <text x="190" y="80" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">then from the Biological</text>
+      <text x="190" y="108" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Entity (S25) filter, select</text>
+      <text x="190" y="136" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological entity specified</text>
+      <text x="190" y="164" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere, including</text>
+      <text x="190" y="192" transform="translate(2016 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">subcomponent where applicable</text>
     </g>
     <g id="n-012">
-      <rect width="356" height="76" transform="translate(2507 1584)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(2507 1584)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for &quot;sampling</text>
-      <text x="178" y="52" transform="translate(2507 1584)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter&quot;</text>
+      <rect width="356" height="76" transform="translate(2776 1696)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(2776 1696)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for &quot;sampling</text>
+      <text x="178" y="52" transform="translate(2776 1696)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter&quot;</text>
     </g>
     <g id="n-013">
-      <rect width="380" height="160" transform="translate(2811 2188)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(2811 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for or identify</text>
-      <text x="190" y="52" transform="translate(2811 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the measurement from</text>
-      <text x="190" y="80" transform="translate(2811 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">&quot;Measurement Property&quot;. Most</text>
-      <text x="190" y="108" transform="translate(2811 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">likely this will be</text>
-      <text x="190" y="136" transform="translate(2811 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">concentration</text>
+      <rect width="380" height="160" transform="translate(4225 1958)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(4225 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for or identify</text>
+      <text x="190" y="52" transform="translate(4225 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the measurement from</text>
+      <text x="190" y="80" transform="translate(4225 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">&quot;Measurement Property&quot;. Most</text>
+      <text x="190" y="108" transform="translate(4225 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">likely this will be</text>
+      <text x="190" y="136" transform="translate(4225 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">concentration</text>
     </g>
     <g id="n-014">
-      <rect width="380" height="132" transform="translate(1103 2026)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(1103 2026)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for the</text>
-      <text x="190" y="52" transform="translate(1103 2026)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement. Be careful not to</text>
-      <text x="190" y="80" transform="translate(1103 2026)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">apply too many filters, as the</text>
-      <text x="190" y="108" transform="translate(1103 2026)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">search may become too narrow</text>
+      <rect width="380" height="132" transform="translate(5834 1668)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(5834 1668)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for the</text>
+      <text x="190" y="52" transform="translate(5834 1668)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement. Be careful not to</text>
+      <text x="190" y="80" transform="translate(5834 1668)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">apply too many filters, as the</text>
+      <text x="190" y="108" transform="translate(5834 1668)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">search may become too narrow</text>
     </g>
     <g id="n-015">
-      <rect width="380" height="104" transform="translate(3811 1750)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3811 1750)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for the name of</text>
-      <text x="190" y="52" transform="translate(3811 1750)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the chemical substance in the</text>
-      <text x="190" y="80" transform="translate(3811 1750)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Free Search box</text>
+      <rect width="380" height="104" transform="translate(5090 1502)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(5090 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for the name of</text>
+      <text x="190" y="52" transform="translate(5090 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the chemical substance in the</text>
+      <text x="190" y="80" transform="translate(5090 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Free Search box</text>
     </g>
     <g id="n-016">
-      <rect width="356" height="104" transform="translate(3915 2216)" fill="#e0e0ff" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(3915 2216)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for your</text>
-      <text x="178" y="52" transform="translate(3915 2216)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement and/or select it</text>
-      <text x="178" y="80" transform="translate(3915 2216)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">from &quot;Measurement Property&quot;</text>
+      <rect width="356" height="104" transform="translate(2120 2148)" fill="#e0e0ff" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(2120 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: search for your</text>
+      <text x="178" y="52" transform="translate(2120 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement and/or select it</text>
+      <text x="178" y="80" transform="translate(2120 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">from &quot;Measurement Property&quot;</text>
     </g>
     <g id="n-017">
-      <ellipse cx="2782" cy="1326" rx="190.0" ry="80.0" fill="#d4edda" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(2592 1246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Add new issue to OBISVocabs</text>
-      <text x="190" y="52" transform="translate(2592 1246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">repository to request creation</text>
-      <text x="190" y="80" transform="translate(2592 1246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">of a new vocabulary</text>
-      <text x="190" y="108" transform="translate(2592 1246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">https://github.com/nvs-</text>
-      <text x="190" y="136" transform="translate(2592 1246)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">vocabs/OBISVocabs/issues</text>
+      <ellipse cx="4817" cy="1402" rx="190.0" ry="80.0" fill="#d4edda" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(4627 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Add new issue to OBISVocabs</text>
+      <text x="190" y="52" transform="translate(4627 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">repository to request creation</text>
+      <text x="190" y="80" transform="translate(4627 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">of a new vocabulary</text>
+      <text x="190" y="108" transform="translate(4627 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">https://github.com/nvs-</text>
+      <text x="190" y="136" transform="translate(4627 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">vocabs/OBISVocabs/issues</text>
     </g>
     <g id="n-018">
-      <rect width="128" height="48" transform="translate(1366 12)" fill="#fce4ec" stroke="#000000"/>
-      <text x="64" y="24" transform="translate(1366 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Behaviour</text>
+      <rect width="128" height="48" transform="translate(2458 12)" fill="#fce4ec" stroke="#000000"/>
+      <text x="64" y="24" transform="translate(2458 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Behaviour</text>
     </g>
     <g id="n-019">
-      <rect width="320" height="76" transform="translate(2986 1111)" fill="#fce4ec" stroke="#000000"/>
-      <text x="160" y="24" transform="translate(2986 1111)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  (e.g. length,</text>
-      <text x="160" y="52" transform="translate(2986 1111)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">weight, abundance)</text>
+      <rect width="320" height="76" transform="translate(2307 1212)" fill="#fce4ec" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(2307 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  (e.g. length,</text>
+      <text x="160" y="52" transform="translate(2307 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">weight, abundance)</text>
+      <text x="5" y="27" transform="translate(2307 1212)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
     </g>
     <g id="n-020">
-      <ellipse cx="3449" cy="1622" rx="190.0" ry="38.0" fill="#cce5ff" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3259 1584)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  entity specified</text>
-      <text x="190" y="52" transform="translate(3259 1584)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere  [ no sub-component]</text>
+      <ellipse cx="2143" cy="1554" rx="190.0" ry="38.0" fill="#cce5ff" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(1953 1516)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  entity specified</text>
+      <text x="190" y="52" transform="translate(1953 1516)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere  [ no sub-component]</text>
     </g>
     <g id="n-021">
-      <ellipse cx="3061" cy="1622" rx="178.0" ry="52.0" fill="#cce5ff" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(2883 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  entity specified</text>
-      <text x="178" y="52" transform="translate(2883 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere  [ with sub-</text>
-      <text x="178" y="80" transform="translate(2883 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">component]</text>
+      <ellipse cx="2531" cy="1554" rx="178.0" ry="52.0" fill="#cce5ff" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(2353 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological  entity specified</text>
+      <text x="178" y="52" transform="translate(2353 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">elsewhere  [ with sub-</text>
+      <text x="178" y="80" transform="translate(2353 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">component]</text>
     </g>
     <g id="n-022">
-      <rect width="224" height="76" transform="translate(551 1125)" fill="#fce4ec" stroke="#000000"/>
-      <text x="112" y="24" transform="translate(551 1125)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological entity</text>
-      <text x="112" y="52" transform="translate(551 1125)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">characteristics</text>
+      <rect width="224" height="76" transform="translate(1250 1072)" fill="#fce4ec" stroke="#000000"/>
+      <text x="112" y="24" transform="translate(1250 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Biological entity</text>
+      <text x="112" y="52" transform="translate(1250 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">characteristics</text>
     </g>
     <g id="n-023">
-      <rect width="368" height="104" transform="translate(1170 1446)" fill="#fce4ec" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(1170 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Broad habitat description</text>
-      <text x="184" y="52" transform="translate(1170 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">(e.g. littoral mud)  European</text>
-      <text x="184" y="80" transform="translate(1170 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Nature Information system</text>
+      <rect width="368" height="104" transform="translate(1919 1198)" fill="#fce4ec" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(1919 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Broad habitat description</text>
+      <text x="184" y="52" transform="translate(1919 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">(e.g. littoral mud)  European</text>
+      <text x="184" y="80" transform="translate(1919 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Nature Information system</text>
     </g>
     <g id="n-024">
-      <ellipse cx="2046" cy="1470" rx="112.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="112" y="24" transform="translate(1934 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">C17  (ICES names)</text>
+      <ellipse cx="124" cy="1346" rx="112.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="112" y="24" transform="translate(12 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">C17  (ICES names)</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/C17/" target="_blank">
+        <text x="209" y="34" transform="translate(12 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-025">
-      <ellipse cx="1354" cy="1594" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(1304 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">C35</text>
+      <ellipse cx="2103" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(2053 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">C35</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/C35/" target="_blank">
+        <text x="85" y="34" transform="translate(2053 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-026">
-      <rect width="320" height="104" transform="translate(4042 1102)" fill="#fce4ec" stroke="#000000"/>
-      <text x="160" y="24" transform="translate(4042 1102)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Chemical substance  (e.g.</text>
-      <text x="160" y="52" transform="translate(4042 1102)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">concentration, flux,</text>
-      <text x="160" y="80" transform="translate(4042 1102)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sedimentation rate)</text>
+      <rect width="320" height="104" transform="translate(5057 1198)" fill="#fce4ec" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(5057 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Chemical substance  (e.g.</text>
+      <text x="160" y="52" transform="translate(5057 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">concentration, flux,</text>
+      <text x="160" y="80" transform="translate(5057 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sedimentation rate)</text>
+      <text x="5" y="32" transform="translate(5057 1198)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-027">
-      <rect width="100" height="48" transform="translate(210 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(210 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Colour</text>
+      <rect width="100" height="48" transform="translate(1240 1226)" fill="#fce4ec" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1240 1226)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Colour</text>
     </g>
     <g id="n-028">
-      <rect width="368" height="76" transform="translate(2598 1116)" fill="#ef9a9a" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(2598 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Could not identify a suitable</text>
-      <text x="184" y="52" transform="translate(2598 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement ID?</text>
+      <rect width="368" height="76" transform="translate(4633 1212)" fill="#ef9a9a" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(4633 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Could not identify a suitable</text>
+      <text x="184" y="52" transform="translate(4633 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement ID?</text>
     </g>
     <g id="n-029">
-      <rect width="380" height="104" transform="translate(770 1446)" fill="#fce4ec" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(770 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">HELCOM &amp;  Marine Habitat</text>
-      <text x="190" y="52" transform="translate(770 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Classification for Britain and</text>
-      <text x="190" y="80" transform="translate(770 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Ireland</text>
+      <rect width="380" height="104" transform="translate(1520 1198)" fill="#fce4ec" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(1520 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">HELCOM &amp;  Marine Habitat</text>
+      <text x="190" y="52" transform="translate(1520 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Classification for Britain and</text>
+      <text x="190" y="80" transform="translate(1520 1198)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Ireland</text>
     </g>
     <g id="n-030">
-      <rect width="104" height="48" transform="translate(1285 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="52" y="24" transform="translate(1285 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Habitat</text>
+      <rect width="104" height="48" transform="translate(2034 1090)" fill="#fce4ec" stroke="#000000"/>
+      <text x="52" y="24" transform="translate(2034 1090)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Habitat</text>
     </g>
     <g id="n-031">
-      <rect width="380" height="692" transform="translate(1580 12)" fill="#d1c4e9" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">How to use these decision</text>
-      <text x="190" y="52" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">trees:  These trees are meant</text>
-      <text x="190" y="80" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to help you identify the</text>
-      <text x="190" y="108" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">important elements within your</text>
-      <text x="190" y="136" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement so that you find</text>
-      <text x="190" y="164" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the best suited vocabulary</text>
-      <text x="190" y="192" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">code. For all branches related</text>
-      <text x="190" y="220" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to measurementType, the tree</text>
-      <text x="190" y="248" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">should be used in conjunction</text>
-      <text x="190" y="276" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">with the SeaDataNet facet</text>
-      <text x="190" y="304" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">search to obtain P01 codes.</text>
-      <text x="190" y="332" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">You will notice other</text>
-      <text x="190" y="360" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">collections (e.g. S07)</text>
-      <text x="190" y="388" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">indicated as you follow along</text>
-      <text x="190" y="416" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the branches. You do not need</text>
-      <text x="190" y="444" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to go to these collections to</text>
-      <text x="190" y="472" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">identify sub-elements, these</text>
-      <text x="190" y="500" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">are provided to indicate where</text>
-      <text x="190" y="528" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">that type of information is</text>
-      <text x="190" y="556" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">found. Ultimately you should</text>
-      <text x="190" y="584" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">select a code that best</text>
-      <text x="190" y="612" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">captures your measurementType,</text>
-      <text x="190" y="640" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementUnit, or</text>
-      <text x="190" y="668" transform="translate(1580 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementValue.</text>
+      <rect width="380" height="692" transform="translate(2672 12)" fill="#d1c4e9" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">How to use these decision</text>
+      <text x="190" y="52" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">trees:  These trees are meant</text>
+      <text x="190" y="80" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to help you identify the</text>
+      <text x="190" y="108" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">important elements within your</text>
+      <text x="190" y="136" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurement so that you find</text>
+      <text x="190" y="164" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the best suited vocabulary</text>
+      <text x="190" y="192" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">code. For all branches related</text>
+      <text x="190" y="220" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to measurementType, the tree</text>
+      <text x="190" y="248" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">should be used in conjunction</text>
+      <text x="190" y="276" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">with the SeaDataNet facet</text>
+      <text x="190" y="304" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">search to obtain P01 codes.</text>
+      <text x="190" y="332" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">You will notice other</text>
+      <text x="190" y="360" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">collections (e.g. S07)</text>
+      <text x="190" y="388" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">indicated as you follow along</text>
+      <text x="190" y="416" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">the branches. You do not need</text>
+      <text x="190" y="444" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">to go to these collections to</text>
+      <text x="190" y="472" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">identify sub-elements, these</text>
+      <text x="190" y="500" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">are provided to indicate where</text>
+      <text x="190" y="528" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">that type of information is</text>
+      <text x="190" y="556" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">found. Ultimately you should</text>
+      <text x="190" y="584" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">select a code that best</text>
+      <text x="190" y="612" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">captures your measurementType,</text>
+      <text x="190" y="640" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementUnit, or</text>
+      <text x="190" y="668" transform="translate(2672 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementValue.</text>
     </g>
     <g id="n-032">
-      <ellipse cx="1430" cy="104" rx="130.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="130" y="24" transform="translate(1300 80)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ICES Behaviour codes</text>
+      <ellipse cx="2522" cy="104" rx="130.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="130" y="24" transform="translate(2392 80)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ICES Behaviour codes</text>
+      <a xlink:href="https://vocab.ices.dk/?codetypeguid=d0268a96-afc9-436e-a4db-4f61c2b9f6ba" target="_blank">
+        <text x="245" y="34" transform="translate(2392 80)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-033">
-      <ellipse cx="2685" cy="1968" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(2501 1930)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
-      <text x="184" y="52" transform="translate(2501 1930)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter?</text>
+      <ellipse cx="5280" cy="1900" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(5096 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
+      <text x="184" y="52" transform="translate(5096 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter (e.g. mean, max)?</text>
+      <text x="5" y="27" transform="translate(5096 1862)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-034">
-      <ellipse cx="4001" cy="2106" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(3817 2068)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
-      <text x="184" y="52" transform="translate(3817 2068)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter? (e.g. mean, max)</text>
+      <ellipse cx="2206" cy="2059" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(2022 2021)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
+      <text x="184" y="52" transform="translate(2022 2021)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter? (e.g. mean, max)</text>
+      <text x="5" y="27" transform="translate(2022 2021)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-101">
+      <ellipse cx="5962" cy="1558" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(5778 1520)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
+      <text x="184" y="52" transform="translate(5778 1520)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter (e.g. mean, max)?</text>
+      <text x="5" y="27" transform="translate(5778 1520)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
     </g>
     <g id="n-035">
-      <ellipse cx="1736" cy="1502" rx="178.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(1558 1464)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is the name and model of the</text>
-      <text x="178" y="52" transform="translate(1558 1464)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sampling instrument known?</text>
+      <ellipse cx="762" cy="1416" rx="178.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(584 1378)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is the name and model of the</text>
+      <text x="178" y="52" transform="translate(584 1378)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">sampling instrument known?</text>
     </g>
     <g id="n-036">
-      <ellipse cx="1545" cy="1594" rx="112.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="112" y="24" transform="translate(1433 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L05  (categories)</text>
+      <ellipse cx="571" cy="1526" rx="112.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="112" y="24" transform="translate(459 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L05  (categories)</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/L05/" target="_blank">
+        <text x="209" y="34" transform="translate(459 1502)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-037">
-      <ellipse cx="2332" cy="1470" rx="154.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="154" y="24" transform="translate(2178 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L06  (Platform category)</text>
+      <ellipse cx="410" cy="1346" rx="154.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(256 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L06  (Platform category)</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/L06/" target="_blank">
+        <text x="293" y="34" transform="translate(256 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-038">
-      <ellipse cx="1795" cy="1594" rx="118.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="118" y="24" transform="translate(1677 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L22  (model names)</text>
+      <ellipse cx="821" cy="1526" rx="118.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="118" y="24" transform="translate(703 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">L22  (model names)</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/L22/" target="_blank">
+        <text x="221" y="34" transform="translate(703 1502)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-039">
-      <rect width="140" height="48" transform="translate(330 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="70" y="24" transform="translate(330 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Life stage</text>
+      <rect width="140" height="48" transform="translate(1080 1226)" fill="#fce4ec" stroke="#000000"/>
+      <text x="70" y="24" transform="translate(1080 1226)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Life stage</text>
     </g>
     <g id="n-040">
-      <ellipse cx="960" cy="1594" rx="70.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="70" y="24" transform="translate(890 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">M23 &amp;  M24</text>
+      <ellipse cx="1773" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1723 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">M23</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/M23/" target="_blank">
+        <text x="85" y="34" transform="translate(1723 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+    </g>
+    <g id="n-120">
+      <ellipse cx="1646" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1596 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">M24</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/M24/" target="_blank">
+        <text x="85" y="34" transform="translate(1596 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-041">
-      <rect width="140" height="48" transform="translate(490 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="70" y="24" transform="translate(490 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Morphology</text>
+      <rect width="140" height="48" transform="translate(1360 1226)" fill="#fce4ec" stroke="#000000"/>
+      <text x="70" y="24" transform="translate(1360 1226)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Morphology</text>
     </g>
     <g id="n-042">
-      <ellipse cx="3757" cy="990" rx="130.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="130" y="24" transform="translate(3627 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">NERC  P06 collection</text>
+      <ellipse cx="1687" cy="990" rx="130.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="130" y="24" transform="translate(1557 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">NERC  P06 collection</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/P06/" target="_blank">
+        <text x="245" y="34" transform="translate(1557 966)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-044">
       <rect width="116" height="48" transform="translate(372 12)" fill="#f5f5f5" stroke="#000000"/>
       <text x="58" y="24" transform="translate(372 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Optional</text>
     </g>
     <g id="n-045">
-      <ellipse cx="391" cy="2448" rx="178.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(213 2424)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Other physical entity  (S29)</text>
+      <ellipse cx="6081" cy="2038" rx="172.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="172" y="24" transform="translate(5909 2014)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Other physical entity (S29)</text>
     </g>
     <g id="n-046">
-      <text x="64" y="24" transform="translate(924 2762)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase S23</text>
+      <text x="64" y="24" transform="translate(5448 2342)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase S23</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S23/" target="_blank">
+        <text x="113" y="34" transform="translate(5448 2342)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-047">
-      <text x="130" y="24" transform="translate(858 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase sub-group  S24</text>
+      <text x="130" y="24" transform="translate(5382 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase sub-group  S24</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S24/" target="_blank">
+        <text x="245" y="34" transform="translate(5382 2480)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-048">
-      <rect width="320" height="76" transform="translate(3702 1116)" fill="#fce4ec" stroke="#000000"/>
-      <text x="160" y="24" transform="translate(3702 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Physical or abiotic (e.g.</text>
-      <text x="160" y="52" transform="translate(3702 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">temperature, salinity)</text>
+      <rect width="320" height="76" transform="translate(5802 1212)" fill="#fce4ec" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(5802 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Physical or abiotic (e.g.</text>
+      <text x="160" y="52" transform="translate(5802 1212)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">temperature, salinity)</text>
+      <text x="5" y="27" transform="translate(5802 1212)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
     </g>
     <g id="n-049">
-      <rect width="332" height="76" transform="translate(2111 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(2111 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Platform or Vessel Codes &amp;</text>
-      <text x="166" y="52" transform="translate(2111 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Names</text>
+      <rect width="332" height="76" transform="translate(188 1216)" fill="#fce4ec" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(188 1216)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Platform or Vessel Codes &amp;</text>
+      <text x="166" y="52" transform="translate(188 1216)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Names</text>
     </g>
     <g id="n-050">
       <rect width="188" height="48" transform="translate(508 12)" fill="#f5f5f5" stroke="#000000"/>
       <text x="94" y="24" transform="translate(508 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Pre-determined</text>
     </g>
     <g id="n-051">
-      <text x="166" y="24" transform="translate(2957 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S03 for Sample preparation</text>
+      <text x="166" y="24" transform="translate(1259 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S03 for Sample preparation</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S03/" target="_blank">
+        <text x="317" y="34" transform="translate(1259 3136)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(1259 3136)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-113">
+      <text x="166" y="24" transform="translate(4214 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S03 for Sample preparation</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S03/" target="_blank">
+        <text x="317" y="34" transform="translate(4214 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(4214 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-114">
+      <text x="166" y="24" transform="translate(3633 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S03 for Sample preparation</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S03/" target="_blank">
+        <text x="317" y="34" transform="translate(3633 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(3633 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-052">
-      <text x="166" y="24" transform="translate(2289 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S04 for Analytical methods</text>
+      <text x="166" y="24" transform="translate(1611 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S04 for Analytical methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S04/" target="_blank">
+        <text x="317" y="34" transform="translate(1611 3136)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(1611 3136)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-115">
+      <text x="166" y="24" transform="translate(4882 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S04 for Analytical methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S04/" target="_blank">
+        <text x="317" y="34" transform="translate(4882 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(4882 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-116">
+      <text x="166" y="24" transform="translate(3281 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S04 for Analytical methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S04/" target="_blank">
+        <text x="317" y="34" transform="translate(3281 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(3281 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-053">
-      <text x="148" y="24" transform="translate(2641 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S05 for Data processing</text>
-      <text x="148" y="52" transform="translate(2641 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods</text>
+      <text x="148" y="24" transform="translate(1963 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S05 for Data processing</text>
+      <text x="148" y="52" transform="translate(1963 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S05/" target="_blank">
+        <text x="281" y="62" transform="translate(1963 3136)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="27" transform="translate(1963 3136)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-117">
+      <text x="148" y="24" transform="translate(4566 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S05 for Data processing</text>
+      <text x="148" y="52" transform="translate(4566 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S05/" target="_blank">
+        <text x="281" y="62" transform="translate(4566 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="27" transform="translate(4566 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-118">
+      <text x="148" y="24" transform="translate(2965 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S05 for Data processing</text>
+      <text x="148" y="52" transform="translate(2965 2974)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">methods</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S05/" target="_blank">
+        <text x="281" y="62" transform="translate(2965 2974)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="27" transform="translate(2965 2974)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-054">
-      <ellipse cx="700" cy="1470" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(650 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S10</text>
+      <ellipse cx="1010" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(960 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S10</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S10/" target="_blank">
+        <text x="85" y="34" transform="translate(960 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-055">
-      <ellipse cx="400" cy="1470" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(350 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S11</text>
+      <ellipse cx="1150" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1100 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S11</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S11/" target="_blank">
+        <text x="85" y="34" transform="translate(1100 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-056">
-      <ellipse cx="560" cy="1470" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(510 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S14</text>
+      <ellipse cx="1430" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1380 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S14</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S14/" target="_blank">
+        <text x="85" y="34" transform="translate(1380 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-057">
-      <ellipse cx="260" cy="1470" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(210 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S15</text>
+      <ellipse cx="1290" cy="1346" rx="50.0" ry="24.0" fill="#d4edda" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(1240 1322)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S15</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S15/" target="_blank">
+        <text x="85" y="34" transform="translate(1240 1322)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-058">
-      <ellipse cx="1455" cy="2604" rx="154.0" ry="38.0" fill="#d4edda" stroke="#000000"/>
-      <text x="154" y="24" transform="translate(1301 2566)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S26 or for more specific</text>
-      <text x="154" y="52" transform="translate(1301 2566)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ranges see:</text>
+      <ellipse cx="5741" cy="2204" rx="154.0" ry="38.0" fill="#d4edda" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(5587 2166)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S26 or for more specific</text>
+      <text x="154" y="52" transform="translate(5587 2166)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">matrices see:</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S26/" target="_blank">
+        <text x="293" y="62" transform="translate(5587 2166)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="27" transform="translate(5587 2166)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
     </g>
-    <g id="n-001">
-      <rect width="100" height="48" transform="translate(3932 724)" fill="#d7ccc8" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(3932 724)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">START</text>
+    <g id="n-093">
+      <ellipse cx="4456" cy="2384" rx="154.0" ry="38.0" fill="#d4edda" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(4302 2346)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S26 or for more specific</text>
+      <text x="154" y="52" transform="translate(4302 2346)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">matrices see:</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S26/" target="_blank">
+        <text x="293" y="62" transform="translate(4302 2346)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="27" transform="translate(4302 2346)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
-    <g id="n-060">
-      <rect width="344" height="48" transform="translate(1564 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="172" y="24" transform="translate(1564 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling device information</text>
-    </g>
-    <g id="n-061">
-      <rect width="356" height="76" transform="translate(2039 1120)" fill="#fce4ec" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(2039 1120)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling device, instrument,</text>
-      <text x="178" y="52" transform="translate(2039 1120)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">platform/vessel information</text>
-    </g>
-    <g id="n-062">
-      <rect width="356" height="76" transform="translate(3326 1116)" fill="#fce4ec" stroke="#000000"/>
-      <text x="178" y="24" transform="translate(3326 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling measurements  (e.g.</text>
-      <text x="178" y="52" transform="translate(3326 1116)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">device, protocol)</text>
+    <g id="n-098">
+      <ellipse cx="4968" cy="2913" rx="160.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(4808 2889)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">For specific methods see:</text>
     </g>
     <g id="n-063">
-      <ellipse cx="3044" cy="3362" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(2860 3324)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">See S26  or for more specific</text>
-      <text x="184" y="52" transform="translate(2860 3324)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ranges see:</text>
+      <ellipse cx="2031" cy="3061" rx="160.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(1871 3037)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">For specific methods see:</text>
+    </g>
+    <g id="n-119">
+      <ellipse cx="3719" cy="2913" rx="160.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(3559 2889)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">For specific methods see:</text>
+    </g>
+    <g id="n-001">
+      <rect width="100" height="48" transform="translate(5721 724)" fill="#d7ccc8" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(5721 724)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">START</text>
+    </g>
+    <g id="n-060">
+      <rect width="344" height="48" transform="translate(590 1226)" fill="#fce4ec" stroke="#000000"/>
+      <text x="172" y="24" transform="translate(590 1226)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling device information</text>
+    </g>
+    <g id="n-061">
+      <rect width="356" height="76" transform="translate(524 1072)" fill="#fce4ec" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(524 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling device, instrument,</text>
+      <text x="178" y="52" transform="translate(524 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">platform/vessel information</text>
+    </g>
+    <g id="n-062">
+      <rect width="356" height="76" transform="translate(2776 1516)" fill="#fce4ec" stroke="#000000"/>
+      <text x="178" y="24" transform="translate(2776 1516)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sampling measurements  (e.g.</text>
+      <text x="178" y="52" transform="translate(2776 1516)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">device, protocol)</text>
+      <text x="5" y="27" transform="translate(2776 1516)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🔎</text>
     </g>
     <g id="n-064">
-      <rect width="100" height="48" transform="translate(650 1302)" fill="#fce4ec" stroke="#000000"/>
-      <text x="50" y="24" transform="translate(650 1302)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sex</text>
+      <rect width="100" height="48" transform="translate(960 1226)" fill="#fce4ec" stroke="#000000"/>
+      <text x="50" y="24" transform="translate(960 1226)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sex</text>
     </g>
     <g id="n-065">
-      <text x="70" y="24" transform="translate(1478 2762)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere S21</text>
+      <text x="70" y="24" transform="translate(5722 2342)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere S21</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S21/" target="_blank">
+        <text x="125" y="34" transform="translate(5722 2342)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-066">
-      <text x="130" y="24" transform="translate(1418 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere sub-group S22</text>
+      <text x="130" y="24" transform="translate(5662 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere sub-group S22</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S22/" target="_blank">
+        <text x="245" y="34" transform="translate(5662 2480)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-067">
       <rect width="260" height="48" transform="translate(716 12)" fill="#f5f5f5" stroke="#000000"/>
       <text x="130" y="24" transform="translate(716 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Strongly recommended</text>
     </g>
     <g id="n-068">
-      <rect width="284" height="76" transform="translate(996 12)" fill="#f5f5f5" stroke="#000000"/>
-      <text x="142" y="24" transform="translate(996 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Suggested</text>
-      <text x="142" y="52" transform="translate(996 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">tool/collection/action</text>
+      <rect width="284" height="76" transform="translate(1700 12)" fill="#f5f5f5" stroke="#000000"/>
+      <text x="142" y="24" transform="translate(1700 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Suggested</text>
+      <text x="142" y="52" transform="translate(1700 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">tool/collection/action</text>
     </g>
     <g id="n-069">
-      <ellipse cx="1889" cy="3614" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(1723 3590)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S02 if interested</text>
+      <ellipse cx="736" cy="3256" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(570 3232)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S02 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S02/" target="_blank">
+        <text x="317" y="34" transform="translate(570 3232)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(570 3232)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-104">
+      <ellipse cx="4796" cy="2296" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(4630 2272)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S02 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S02/" target="_blank">
+        <text x="317" y="34" transform="translate(4630 2272)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(4630 2272)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-105">
+      <ellipse cx="3548" cy="2504" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(3382 2480)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S02 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S02/" target="_blank">
+        <text x="317" y="34" transform="translate(3382 2480)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(3382 2480)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-070">
-      <ellipse cx="3729" cy="2212" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(3563 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S06 if interested</text>
+      <ellipse cx="1582" cy="2172" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(1416 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S06 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/collection/S06/current/" target="_blank">
+        <text x="317" y="34" transform="translate(1416 2148)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(1416 2148)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-106">
+      <ellipse cx="1162" cy="36" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(996 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S06 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/collection/S06/current/" target="_blank">
+        <text x="317" y="34" transform="translate(996 12)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(996 12)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-107">
+      <ellipse cx="1514" cy="36" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(1348 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S06 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/collection/S06/current/" target="_blank">
+        <text x="317" y="34" transform="translate(1348 12)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(1348 12)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-071">
-      <ellipse cx="3377" cy="2212" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(3211 2188)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S07 if interested</text>
+      <ellipse cx="1934" cy="2172" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(1768 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S07 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S07/" target="_blank">
+        <text x="317" y="34" transform="translate(1768 2148)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(1768 2148)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-108">
+      <ellipse cx="5648" cy="1650" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(5482 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S07 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S07/" target="_blank">
+        <text x="317" y="34" transform="translate(5482 1626)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(5482 1626)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-109">
+      <ellipse cx="5342" cy="1982" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(5176 1958)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S07 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S07/" target="_blank">
+        <text x="317" y="34" transform="translate(5176 1958)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(5176 1958)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-072">
-      <ellipse cx="3002" cy="1718" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(2836 1694)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S12 if interested</text>
+      <ellipse cx="2590" cy="1650" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(2424 1626)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S12 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S12/" target="_blank">
+        <text x="317" y="34" transform="translate(2424 1626)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(2424 1626)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
     </g>
     <g id="n-073">
-      <ellipse cx="3825" cy="1594" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(3659 1570)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S27 if interested</text>
+      <ellipse cx="4904" cy="1526" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(4738 1502)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S27 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S27/" target="_blank">
+        <text x="317" y="34" transform="translate(4738 1502)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(4738 1502)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-074">
-      <ellipse cx="391" cy="2572" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(225 2548)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S29 if interested</text>
+      <ellipse cx="6081" cy="2172" rx="166.0" ry="24.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(5915 2148)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Terms in S29 if interested</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S29/" target="_blank">
+        <text x="317" y="34" transform="translate(5915 2148)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
+      <text x="5" y="22" transform="translate(5915 2148)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
     </g>
     <g id="n-075">
-      <rect width="320" height="48" transform="translate(1190 2442)" fill="#fff59d" stroke="#000000"/>
-      <text x="160" y="24" transform="translate(1190 2442)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">The environmental matrix?</text>
+      <rect width="320" height="48" transform="translate(5528 2032)" fill="#fff59d" stroke="#000000"/>
+      <text x="160" y="24" transform="translate(5528 2032)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">The environmental matrix?</text>
     </g>
     <g id="n-076">
-      <text x="178" y="24" transform="translate(3790 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">There are only 3 matrices</text>
-      <text x="178" y="52" transform="translate(3790 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relevant for OBIS biological</text>
-      <text x="178" y="80" transform="translate(3790 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">data Water body Bed Sediment</text>
-      <text x="178" y="108" transform="translate(3790 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Look in S26 or S21 for more</text>
-      <text x="178" y="136" transform="translate(3790 2692)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">details</text>
+      <text x="184" y="24" transform="translate(2177 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">There are only 3 matrices</text>
+      <text x="184" y="52" transform="translate(2177 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relevant for OBIS biological</text>
+      <text x="184" y="80" transform="translate(2177 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">data: Water body Bed Sediment</text>
+      <text x="184" y="108" transform="translate(2177 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Look in S26 or S21 for more</text>
+      <text x="184" y="136" transform="translate(2177 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">details</text>
     </g>
     <g id="n-077">
-      <rect width="308" height="76" transform="translate(3035 3127)" fill="#fff59d" stroke="#000000"/>
-      <text x="154" y="24" transform="translate(3035 3127)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Were any methods used to</text>
-      <text x="154" y="52" transform="translate(3035 3127)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">obtain the measurement?</text>
+      <rect width="308" height="76" transform="translate(1825 2868)" fill="#fff59d" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(1825 2868)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Were any methods used to</text>
+      <text x="154" y="52" transform="translate(1825 2868)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">obtain the measurement?</text>
+      <text x="5" y="27" transform="translate(1825 2868)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-102">
+      <rect width="308" height="76" transform="translate(5018 2744)" fill="#fff59d" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(5018 2744)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Were any methods used to</text>
+      <text x="154" y="52" transform="translate(5018 2744)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">obtain the measurement?</text>
+      <text x="5" y="27" transform="translate(5018 2744)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-103">
+      <rect width="308" height="76" transform="translate(3770 2744)" fill="#fff59d" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(3770 2744)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Were any methods used to</text>
+      <text x="154" y="52" transform="translate(3770 2744)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">obtain the measurement?</text>
+      <text x="5" y="27" transform="translate(3770 2744)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-078">
-      <rect width="380" height="76" transform="translate(3748 1464)" fill="#fff59d" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3748 1464)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the chemical substance</text>
-      <text x="190" y="52" transform="translate(3748 1464)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">being measured ?</text>
+      <rect width="380" height="76" transform="translate(5027 1378)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(5027 1378)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the chemical substance</text>
+      <text x="190" y="52" transform="translate(5027 1378)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">being measured ?</text>
     </g>
     <g id="n-079">
-      <rect width="248" height="48" transform="translate(2877 2442)" fill="#fff59d" stroke="#000000"/>
-      <text x="124" y="24" transform="translate(2877 2442)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the matrix?</text>
+      <rect width="248" height="48" transform="translate(4291 2185)" fill="#fff59d" stroke="#000000"/>
+      <text x="124" y="24" transform="translate(4291 2185)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the matrix?</text>
+      <text x="5" y="22" transform="translate(4291 2185)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
     </g>
     <g id="n-080">
-      <rect width="380" height="104" transform="translate(3903 2548)" fill="#fff59d" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3903 2548)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the matrix?  (note:</text>
-      <text x="190" y="52" transform="translate(3903 2548)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">most of the time matrix is not</text>
-      <text x="190" y="80" transform="translate(3903 2548)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">needed for biological data)</text>
+      <rect width="380" height="104" transform="translate(2108 2536)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2108 2536)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the matrix?  (note:</text>
+      <text x="190" y="52" transform="translate(2108 2536)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">most of the time matrix is not</text>
+      <text x="190" y="80" transform="translate(2108 2536)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">needed for biological data)</text>
+      <text x="5" y="32" transform="translate(2108 2536)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
     </g>
     <g id="n-081">
-      <rect width="296" height="76" transform="translate(2488 1764)" fill="#fff59d" stroke="#000000"/>
-      <text x="148" y="24" transform="translate(2488 1764)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
-      <text x="148" y="52" transform="translate(2488 1764)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
-    </g>
-    <g id="n-082">
-      <rect width="380" height="104" transform="translate(3196 1446)" fill="#fff59d" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(3196 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the object of interest</text>
-      <text x="190" y="52" transform="translate(3196 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">that is being measured? Is</text>
-      <text x="190" y="80" transform="translate(3196 1446)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">there a subcomponent?</text>
-    </g>
-    <g id="n-083">
-      <rect width="344" height="76" transform="translate(1121 2244)" fill="#fff59d" stroke="#000000"/>
-      <text x="172" y="24" transform="translate(1121 2244)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the physical entity</text>
-      <text x="172" y="52" transform="translate(1121 2244)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">being measured?</text>
-    </g>
-    <g id="n-084">
-      <rect width="332" height="76" transform="translate(1968 966)" fill="#fff59d" stroke="#000000"/>
-      <text x="166" y="24" transform="translate(1968 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What type of (non-numeric)</text>
-      <text x="166" y="52" transform="translate(1968 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">value is it?</text>
-    </g>
-    <g id="n-085">
-      <rect width="344" height="76" transform="translate(3907 966)" fill="#fff59d" stroke="#000000"/>
-      <text x="172" y="24" transform="translate(3907 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What type of measurement do</text>
-      <text x="172" y="52" transform="translate(3907 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">you have?</text>
-    </g>
-    <g id="n-086">
-      <rect width="380" height="76" transform="translate(1699 3484)" fill="#fff59d" stroke="#000000"/>
-      <text x="190" y="24" transform="translate(1699 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What's the measurement-matrix-</text>
-      <text x="190" y="52" transform="translate(1699 3484)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship?</text>
-    </g>
-    <g id="n-087">
-      <rect width="308" height="76" transform="translate(3828 792)" fill="#fff59d" stroke="#000000"/>
-      <text x="154" y="24" transform="translate(3828 792)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Which identifier are you</text>
-      <text x="154" y="52" transform="translate(3828 792)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">looking for?</text>
+      <rect width="296" height="76" transform="translate(2058 1862)" fill="#fff59d" stroke="#000000"/>
+      <text x="148" y="24" transform="translate(2058 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
+      <text x="148" y="52" transform="translate(2058 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
+      <text x="5" y="27" transform="translate(2058 1862)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
     </g>
     <g id="n-088">
-      <rect width="296" height="76" transform="translate(3804 1930)" fill="#fff59d" stroke="#000000"/>
-      <text x="148" y="24" transform="translate(3804 1930)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
-      <text x="148" y="52" transform="translate(3804 1930)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
+      <rect width="296" height="76" transform="translate(5814 1364)" fill="#fff59d" stroke="#000000"/>
+      <text x="148" y="24" transform="translate(5814 1364)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
+      <text x="148" y="52" transform="translate(5814 1364)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
+      <text x="5" y="27" transform="translate(5814 1364)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-099">
+      <rect width="296" height="76" transform="translate(5132 1696)" fill="#fff59d" stroke="#000000"/>
+      <text x="148" y="24" transform="translate(5132 1696)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
+      <text x="148" y="52" transform="translate(5132 1696)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
+      <text x="5" y="27" transform="translate(5132 1696)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
+    </g>
+    <g id="n-100">
+      <rect width="296" height="76" transform="translate(2806 1862)" fill="#fff59d" stroke="#000000"/>
+      <text x="148" y="24" transform="translate(2806 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the measurement</text>
+      <text x="148" y="52" transform="translate(2806 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">property?</text>
+      <text x="5" y="27" transform="translate(2806 1862)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🔎</text>
+    </g>
+    <g id="n-082">
+      <rect width="380" height="104" transform="translate(2277 1359)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(2277 1359)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the object of interest</text>
+      <text x="190" y="52" transform="translate(2277 1359)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">that is being measured? Is</text>
+      <text x="190" y="80" transform="translate(2277 1359)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">there a subcomponent?</text>
+    </g>
+    <g id="n-083">
+      <rect width="344" height="76" transform="translate(5852 1862)" fill="#fff59d" stroke="#000000"/>
+      <text x="172" y="24" transform="translate(5852 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What is the physical entity</text>
+      <text x="172" y="52" transform="translate(5852 1862)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">being measured?</text>
+    </g>
+    <g id="n-084">
+      <rect width="332" height="76" transform="translate(1837 966)" fill="#fff59d" stroke="#000000"/>
+      <text x="166" y="24" transform="translate(1837 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What type of (non-numeric)</text>
+      <text x="166" y="52" transform="translate(1837 966)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">value is it?</text>
+    </g>
+    <g id="n-085">
+      <rect width="344" height="76" transform="translate(5676 1072)" fill="#fff59d" stroke="#000000"/>
+      <text x="172" y="24" transform="translate(5676 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What type of measurement do</text>
+      <text x="172" y="52" transform="translate(5676 1072)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">you have?</text>
+    </g>
+    <g id="n-086">
+      <rect width="380" height="76" transform="translate(859 3136)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(859 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What's the measurement-matrix-</text>
+      <text x="190" y="52" transform="translate(859 3136)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship?</text>
+      <text x="5" y="27" transform="translate(859 3136)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🐟</text>
+    </g>
+    <g id="n-110">
+      <rect width="380" height="76" transform="translate(4919 2166)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(4919 2166)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What's the measurement-matrix-</text>
+      <text x="190" y="52" transform="translate(4919 2166)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship?</text>
+      <text x="5" y="27" transform="translate(4919 2166)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🌡️</text>
+    </g>
+    <g id="n-111">
+      <rect width="380" height="76" transform="translate(3670 2346)" fill="#fff59d" stroke="#000000"/>
+      <text x="190" y="24" transform="translate(3670 2346)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">What's the measurement-matrix-</text>
+      <text x="190" y="52" transform="translate(3670 2346)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">relationship?</text>
+      <text x="5" y="27" transform="translate(3670 2346)" font-family="Arial" font-size="28" fill="#666666" text-anchor="start" dominant-baseline="middle">🧪</text>
+    </g>
+    <g id="n-087">
+      <rect width="308" height="76" transform="translate(5617 792)" fill="#fff59d" stroke="#000000"/>
+      <text x="154" y="24" transform="translate(5617 792)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Which identifier are you</text>
+      <text x="154" y="52" transform="translate(5617 792)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">looking for?</text>
     </g>
     <g id="n-089">
-      <rect width="224" height="48" transform="translate(3947 898)" fill="#ffe0b2" stroke="#000000"/>
-      <text x="112" y="24" transform="translate(3947 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementTypeID</text>
+      <rect width="224" height="48" transform="translate(5736 898)" fill="#ffe0b2" stroke="#000000"/>
+      <text x="112" y="24" transform="translate(5736 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementTypeID</text>
     </g>
     <g id="n-090">
-      <rect width="224" height="48" transform="translate(3645 898)" fill="#ffe0b2" stroke="#000000"/>
-      <text x="112" y="24" transform="translate(3645 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementUnitID</text>
+      <rect width="224" height="48" transform="translate(1575 898)" fill="#ffe0b2" stroke="#000000"/>
+      <text x="112" y="24" transform="translate(1575 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementUnitID</text>
     </g>
     <g id="n-091">
-      <rect width="236" height="48" transform="translate(2016 898)" fill="#ffe0b2" stroke="#000000"/>
-      <text x="118" y="24" transform="translate(2016 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementValueID</text>
+      <rect width="236" height="48" transform="translate(1885 898)" fill="#ffe0b2" stroke="#000000"/>
+      <text x="118" y="24" transform="translate(1885 898)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">measurementValueID</text>
     </g>
     <g id="n-092">
-      <ellipse cx="3316" cy="2101" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(3132 2063)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
-      <text x="184" y="52" transform="translate(3132 2063)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter?</text>
-    </g>
-    <g id="n-093">
-      <ellipse cx="3042" cy="2604" rx="154.0" ry="38.0" fill="#d4edda" stroke="#000000"/>
-      <text x="154" y="24" transform="translate(2888 2566)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">S26 or for more specific</text>
-      <text x="154" y="52" transform="translate(2888 2566)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ranges see:</text>
+      <ellipse cx="2188" cy="50" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
+      <text x="184" y="24" transform="translate(2004 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Is it a statistically derived</text>
+      <text x="184" y="52" transform="translate(2004 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">parameter?</text>
     </g>
     <g id="n-094">
-      <text x="70" y="24" transform="translate(638 2762)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere S21</text>
+      <text x="70" y="24" transform="translate(4158 2550)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere S21</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S21/" target="_blank">
+        <text x="125" y="34" transform="translate(4158 2550)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-095">
-      <text x="130" y="24" transform="translate(578 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere sub-group S22</text>
+      <text x="130" y="24" transform="translate(4098 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Sphere sub-group S22</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S22/" target="_blank">
+        <text x="245" y="34" transform="translate(4098 2688)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-096">
-      <text x="64" y="24" transform="translate(1204 2762)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase S23</text>
+      <text x="64" y="24" transform="translate(4444 2550)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase S23</text>
+      <a xlink:href="https://vocab.nerc.ac.uk/search_nvs/S23/" target="_blank">
+        <text x="113" y="34" transform="translate(4444 2550)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-097">
-      <text x="130" y="24" transform="translate(1138 2910)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase sub-group  S24</text>
-    </g>
-    <g id="n-098">
-      <ellipse cx="2656" cy="3362" rx="184.0" ry="38.0" fill="#fff3cd" stroke="#000000"/>
-      <text x="184" y="24" transform="translate(2472 3324)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">See S26  or for more specific</text>
-      <text x="184" y="52" transform="translate(2472 3324)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ranges see:</text>
+      <text x="130" y="24" transform="translate(4378 2688)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">Phase sub-group  S24</text>
     </g>
     <g id="">
       <rect width="100" height="48" transform="translate(12 12)" fill="#f8f9fa" stroke="#000000"/>
@@ -512,358 +779,343 @@
       <text x="50" y="24" transform="translate(252 12)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle"/>
     </g>
     <g id="e-001-087">
-      <path d="M3982 772 L3982 792" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5771 772 L5771 792" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-087-089">
-      <path d="M4059 868 L4059 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5848 868 L5848 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-087-090">
-      <path d="M3982 868 L3982 888 L3757 888 L3757 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5694 868 L5694 878 L1687 878 L1687 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-087-091">
-      <path d="M3905 868 L3905 878 L2134 878 L2134 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5771 868 L5771 888 L2003 888 L2003 898" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-090-042">
-      <path d="M3757 946 L3757 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1687 946 L1687 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-091-084">
-      <path d="M2134 946 L2134 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2003 946 L2003 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-089-085">
-      <path d="M4096 946 L4096 956 L4136 956 L4136 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-089-010">
+      <path d="M5848 946 L5848 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-010-085">
+      <path d="M5848 1042 L5848 1072" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-084-030">
-      <path d="M2134 1042 L2134 1062 L1354 1062 L1354 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2086 1042 L2086 1090" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-084-061">
-      <path d="M2217 1042 L2217 1120" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1920 1042 L1920 1052 L702 1052 L702 1072" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-084-022">
-      <path d="M2051 1042 L2051 1052 L663 1052 L663 1125" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2003 1042 L2003 1062 L1362 1062 L1362 1072" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-085-019">
-      <path d="M4054 1042 L4054 1072 L3199 1072 L3199 1111" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-022-027">
-      <path d="M588 1201 L588 1216 L260 1216 L260 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-022-064">
-      <path d="M700 1201 L700 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-022-030">
-      <path d="M737 1201 L737 1216 L1319 1216 L1319 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-022-039">
-      <path d="M625 1201 L625 1226 L400 1226 L400 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-022-041">
-      <path d="M663 1201 L663 1236 L560 1236 L560 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-064-054">
-      <path d="M700 1350 L700 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-039-055">
-      <path d="M400 1350 L400 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-041-056">
-      <path d="M560 1350 L560 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-027-057">
-      <path d="M260 1350 L260 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-018-032">
-      <path d="M1430 60 L1430 80" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-061-049">
-      <path d="M2277 1196 L2277 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-061-060">
-      <path d="M2158 1196 L2158 1216 L1736 1216 L1736 1302" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-049-024">
-      <path d="M2221 1378 L2221 1416 L2046 1416 L2046 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-049-037">
-      <path d="M2332 1378 L2332 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-060-035">
-      <path d="M1736 1350 L1736 1464" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-035-038">
-      <path d="M1795 1540 L1795 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-035-036">
-      <path d="M1677 1540 L1677 1560 L1545 1560 L1545 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-030-029">
-      <path d="M1319 1350 L1319 1416 L960 1416 L960 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-030-023">
-      <path d="M1354 1350 L1354 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-023-025">
-      <path d="M1354 1550 L1354 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-029-040">
-      <path d="M960 1550 L960 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-089-085">
-      <path d="M4021 946 L4021 966" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5733 1148 L5733 1158 L2467 1158 L2467 1212" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-085-028">
-      <path d="M3956 1042 L3956 1052 L2782 1052 L2782 1116" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-085-019">
-      <path d="M4005 1042 L4005 1062 L3092 1062 L3092 1111" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5848 1148 L5848 1178 L4817 1178 L4817 1212" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-085-026">
-      <path d="M4202 1042 L4202 1102" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5905 1148 L5905 1188 L5217 1188 L5217 1198" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-085-048">
-      <path d="M4152 1042 L4152 1092 L3862 1092 L3862 1116" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5962 1148 L5962 1212" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-085-062">
-      <path d="M4103 1042 L4103 1082 L3504 1082 L3504 1116" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5790 1148 L5790 1168 L2954 1168 L2954 1516" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-022-027">
+      <path d="M1385 1148 L1385 1178 L1290 1178 L1290 1226" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-022-064">
+      <path d="M1295 1148 L1295 1158 L1010 1158 L1010 1226" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-022-039">
+      <path d="M1340 1148 L1340 1168 L1150 1168 L1150 1226" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-022-041">
+      <path d="M1430 1148 L1430 1226" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-064-054">
+      <path d="M1010 1274 L1010 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-039-055">
+      <path d="M1150 1274 L1150 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-041-056">
+      <path d="M1430 1274 L1430 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-027-057">
+      <path d="M1290 1274 L1290 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-018-032">
+      <path d="M2522 60 L2522 80" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-061-049">
+      <path d="M643 1148 L643 1158 L354 1158 L354 1216" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-061-060">
+      <path d="M762 1148 L762 1226" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-049-024">
+      <path d="M299 1292 L299 1312 L124 1312 L124 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-049-037">
+      <path d="M410 1292 L410 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-060-035">
+      <path d="M762 1274 L762 1378" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-035-038">
+      <path d="M821 1454 L821 1502" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-035-036">
+      <path d="M702 1454 L702 1492 L571 1492 L571 1502" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-030-029">
+      <path d="M2069 1138 L2069 1158 L1710 1158 L1710 1198" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-030-023">
+      <path d="M2103 1138 L2103 1198" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-023-025">
+      <path d="M2103 1302 L2103 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-029-040">
+      <path d="M1773 1302 L1773 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-029-120">
+      <path d="M1646 1302 L1646 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-028-017">
-      <path d="M2782 1192 L2782 1246" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M4817 1288 L4817 1322" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-062-010">
-      <path d="M3504 1192 L3504 1216 L3786 1216 L3786 1288" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-062-012">
+      <path d="M2954 1592 L2954 1696" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-010-012">
-      <path d="M3786 1364 L3786 1426 L2685 1426 L2685 1584" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-012-100">
+      <path d="M2954 1772 L2954 1862" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-012-081">
-      <path d="M2685 1660 L2685 1764" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-081-059">
-      <path d="M2586 1840 L2586 1920 L202 1920 L202 3090" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-100-059">
+      <path d="M2954 1938 L2954 3246" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-059-009">
-      <path d="M202 3222 L202 3770 L2135 3770 L2135 3780" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2954 3378 L2954 3402 L3904 3402 L3904 3422" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-048-010">
-      <path d="M3862 1192 L3862 1288" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-048-088">
+      <path d="M5962 1288 L5962 1364" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-010-081">
-      <path d="M3710 1364 L3710 1416 L2496 1416 L2496 1684 L2586 1684 L2586 1764" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-088-101">
+      <path d="M5962 1440 L5962 1520" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-081-033">
-      <path d="M2685 1840 L2685 1930" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-101-108">
+      <path d="M5901 1596 L5901 1616 L5648 1616 L5648 1626" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-033-071">
-      <path d="M2746 2006 L2746 2178 L3294 2178 L3294 2188" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-033-014">
-      <path d="M2624 2006 L2624 2016 L1293 2016 L1293 2026" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-101-014">
+      <path d="M6024 1596 L6024 1668" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-014-083">
-      <path d="M1293 2158 L1293 2244" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M6024 1800 L6024 1862" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-083-075">
-      <path d="M1350 2320 L1350 2442" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5966 1938 L5966 1948 L5688 1948 L5688 2032" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-083-045">
-      <path d="M1236 2320 L1236 2358 L391 2358 L391 2424" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M6081 1938 L6081 2014" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-045-074">
-      <path d="M391 2472 L391 2548" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M6081 2062 L6081 2148" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-075-058">
-      <path d="M1404 2490 L1404 2566" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5741 2080 L5741 2166" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-058-065">
-      <path d="M1548 2642 L1548 2762" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5792 2242 L5792 2342" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-065-066">
-      <path d="M1548 2810 L1548 2910" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5792 2390 L5792 2480" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-058-046">
-      <path d="M1424 2642 L1424 2672 L988 2672 L988 2762" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5690 2242 L5690 2262 L5512 2262 L5512 2342" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-046-047">
-      <path d="M988 2810 L988 2910" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5512 2390 L5512 2480" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-075-086">
-      <path d="M1297 2490 L1297 2538 L567 2538 L567 3424 L1794 3424 L1794 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-075-110">
+      <path d="M5634 2080 L5634 2128 L5109 2128 L5109 2166" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-086-069">
-      <path d="M1984 3560 L1984 3570 L1972 3570 L1972 3590" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-110-104">
+      <path d="M5046 2242 L5046 2262 L4796 2262 L4796 2272" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-086-006">
-      <path d="M1889 3484 L1889 2890 L2999 2890 L2999 2880" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-110-112">
+      <path d="M5172 2242 L5172 2272" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-006-002">
-      <path d="M3189 2880 L3189 2910" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-112-002">
+      <path d="M5172 2460 L5172 2494" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-002-077">
-      <path d="M3189 3070 L3189 3127" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-002-102">
+      <path d="M5172 2654 L5172 2744" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-077-063">
-      <path d="M3255 3203 L3255 3272 L3105 3272 L3105 3324" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-102-098">
+      <path d="M5121 2820 L5121 2858 L4968 2858 L4968 2889" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-077-009">
-      <path d="M3123 3203 L3123 3242 L2278 3242 L2278 3780" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-102-009">
+      <path d="M5224 2820 L5224 3402 L4046 3402 L4046 3422" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-063-051">
-      <path d="M3175 3400 L3175 3424 L3206 3424 L3206 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-098-113">
+      <path d="M4888 2937 L4888 2954 L4380 2954 L4380 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-063-052">
-      <path d="M2965 3400 L2965 3444 L2538 3444 L2538 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-098-115">
+      <path d="M5048 2937 L5048 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-063-053">
-      <path d="M3070 3400 L3070 3464 L2863 3464 L2863 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-098-117">
+      <path d="M4968 2937 L4968 2964 L4714 2964 L4714 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-026-010">
-      <path d="M4202 1206 L4202 1216 L3938 1216 L3938 1288" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-010-078">
-      <path d="M3938 1364 L3938 1464" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-026-078">
+      <path d="M5217 1302 L5217 1378" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-078-073">
-      <path d="M3874 1540 L3874 1560 L3825 1560 L3825 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5154 1454 L5154 1492 L4904 1492 L4904 1502" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-078-015">
-      <path d="M4001 1540 L4001 1750" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M5280 1454 L5280 1502" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-015-088">
-      <path d="M4001 1854 L4001 1930" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-015-099">
+      <path d="M5280 1606 L5280 1696" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-088-092">
-      <path d="M3902 2006 L3902 2016 L3316 2016 L3316 2063" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-099-033">
+      <path d="M5280 1772 L5280 1862" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-092-071">
-      <path d="M3377 2139 L3377 2188" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-033-109">
+      <path d="M5342 1938 L5342 1958" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-092-013">
-      <path d="M3254 2139 L3254 2168 L3001 2168 L3001 2188" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-033-013">
+      <path d="M5219 1938 L5219 1948 L4415 1948 L4415 1958" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-013-079">
-      <path d="M3001 2348 L3001 2442" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M4415 2118 L4415 2185" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-079-093">
-      <path d="M3042 2490 L3042 2566" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M4456 2233 L4456 2346" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-079-058">
-      <path d="M2960 2490 L2960 2538 L1506 2538 L1506 2566" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-079-111">
+      <path d="M4374 2233 L4374 2262 L3860 2262 L3860 2346" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-093-069">
-      <path d="M2991 2642 L2991 2662 L1688 2662 L1688 3580 L1806 3580 L1806 3590" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-111-105">
+      <path d="M3797 2422 L3797 2470 L3548 2470 L3548 2480" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-093-006">
-      <path d="M3094 2642 L3094 2692" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-111-006">
+      <path d="M3924 2422 L3924 2480" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-058-094">
-      <path d="M1363 2642 L1363 2662 L708 2662 L708 2762" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-093-094">
+      <path d="M4405 2422 L4405 2470 L4228 2470 L4228 2550" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-094-095">
-      <path d="M708 2810 L708 2910" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M4228 2598 L4228 2688" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-058-096">
-      <path d="M1486 2642 L1486 2682 L1268 2682 L1268 2762" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-093-096">
+      <path d="M4508 2422 L4508 2550" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-096-097">
-      <path d="M1268 2810 L1268 2910" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M4508 2598 L4508 2688" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-006-077">
-      <path d="M3094 2880 L3094 2900 L2988 2900 L2988 3080 L3112 3080 L3112 3127" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-006-103">
+      <path d="M3924 2668 L3924 2744" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-077-003">
-      <path d="M3299 3203 L3299 3632" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-103-003">
+      <path d="M3975 2820 L3975 3274" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-077-098">
-      <path d="M3167 3203 L3167 3252 L2656 3252 L2656 3324" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-103-119">
+      <path d="M3872 2820 L3872 2858 L3719 2858 L3719 2889" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-003-009">
-      <path d="M3299 3708 L3299 3760 L2349 3760 L2349 3780" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M3975 3350 L3975 3422" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-098-051">
-      <path d="M2748 3400 L2748 3474 L3040 3474 L3040 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-119-114">
+      <path d="M3799 2937 L3799 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-098-052">
-      <path d="M2564 3400 L2564 3424 L2372 3424 L2372 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-119-116">
+      <path d="M3719 2937 L3719 2964 L3447 2964 L3447 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-098-053">
-      <path d="M2656 3400 L2656 3454 L2715 3454 L2715 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-119-118">
+      <path d="M3639 2937 L3639 2954 L3113 2954 L3113 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-019-010">
-      <path d="M3146 1187 L3146 1226 L3710 1226 L3710 1288" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-010-082">
-      <path d="M3862 1364 L3862 1436 L3386 1436 L3386 1446" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-019-082">
+      <path d="M2467 1288 L2467 1359" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-082-020">
-      <path d="M3449 1550 L3449 1584" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2404 1463 L2404 1492 L2143 1492 L2143 1516" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-082-021">
-      <path d="M3322 1550 L3322 1560 L3061 1560 L3061 1570" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2531 1463 L2531 1502" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-021-072">
-      <path d="M3002 1674 L3002 1694" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
-    </g>
-    <g id="e-020-011">
-      <path d="M3449 1660 L3449 1694" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2590 1606 L2590 1626" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-021-011">
-      <path d="M3120 1674 L3120 1684 L3322 1684 L3322 1694" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2471 1606 L2471 1616 L2270 1616 L2270 1626" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-011-088">
-      <path d="M3386 1910 L3386 1920 L3902 1920 L3902 1930" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-020-011">
+      <path d="M2143 1592 L2143 1626" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
-    <g id="e-088-034">
-      <path d="M4001 2006 L4001 2068" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <g id="e-011-081">
+      <path d="M2206 1842 L2206 1862" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+    </g>
+    <g id="e-081-034">
+      <path d="M2206 1938 L2206 2021" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-034-071">
-      <path d="M3909 2144 L3909 2168 L3460 2168 L3460 2188" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2206 2097 L2206 2138 L1934 2138 L1934 2148" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-034-070">
-      <path d="M4001 2144 L4001 2178 L3729 2178 L3729 2188" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2114 2097 L2114 2128 L1582 2128 L1582 2148" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-034-016">
-      <path d="M4093 2144 L4093 2216" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2298 2097 L2298 2148" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-016-008">
-      <path d="M4093 2320 L4093 2368" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2298 2252 L2298 2286" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-008-080">
-      <path d="M4093 2528 L4093 2548" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2298 2446 L2298 2536" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-080-076">
-      <path d="M4030 2652 L4030 2662 L3968 2662 L3968 2692" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2362 2640 L2361 2688" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-080-005">
-      <path d="M4156 2652 L4156 2938" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2235 2640 L2235 2678 L1979 2678 L1979 2716" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-005-077">
-      <path d="M4156 3042 L4156 3080 L3266 3080 L3266 3127" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1979 2820 L1979 2868" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-077-063">
-      <path d="M3211 3203 L3211 3262 L2982 3262 L2982 3324" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2031 2944 L2031 3037" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-077-004">
-      <path d="M3079 3203 L3079 3232 L2084 3232 L2084 3282" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1928 2944 L1928 2954 L1049 2954 L1049 2974" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-063-051">
-      <path d="M3123 3400 L3123 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1951 3085 L1951 3116 L1425 3116 L1425 3136" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-063-052">
-      <path d="M2912 3400 L2912 3434 L2455 3434 L2455 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2031 3085 L2031 3126 L1777 3126 L1777 3136" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-063-053">
-      <path d="M3017 3400 L3017 3454 L2789 3454 L2789 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M2111 3085 L2111 3136" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-004-086">
-      <path d="M2084 3414 L2084 3424 L1984 3424 L1984 3484" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1049 3106 L1049 3136" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-086-069">
-      <path d="M1889 3560 L1889 3590" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M985 3212 L986 3222 L736 3222 L736 3232" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-086-007">
-      <path d="M1794 3560 L1794 3570 L1513 3570 L1513 3590" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1112 3212 L1112 3232" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
     <g id="e-007-009">
-      <path d="M1513 3750 L1513 3760 L2206 3760 L2206 3780" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
+      <path d="M1112 3392 L1112 3412 L3833 3412 L3833 3422" stroke="#4D5B80" stroke-opacity="0.75" stroke-width="3" stroke-miterlimit="0" stroke-linecap="round" stroke-linejoin="bevel"/>
     </g>
   </g>
 </svg>

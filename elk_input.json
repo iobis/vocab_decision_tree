@@ -23,7 +23,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-002",
@@ -43,7 +44,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-003",
@@ -63,7 +65,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-004",
@@ -83,7 +86,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-005",
@@ -103,7 +107,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-006",
@@ -123,7 +128,29 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-112",
+      "width": 380,
+      "height": 188,
+      "labels": [
+        {
+          "text": "ACTION: Consider the units of your measurements, whether a sub-group was targeted to help you determine the matrix and measurement-matrix relationship.",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-007",
@@ -143,7 +170,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-008",
@@ -163,7 +191,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-009",
@@ -183,7 +212,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-010",
@@ -203,7 +233,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": "https://vocab.seadatanet.org/p01-facet-search"
+      "link": "https://vocab.seadatanet.org/p01-facet-search",
+      "emoji": ""
     },
     {
       "id": "n-011",
@@ -223,7 +254,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-012",
@@ -243,7 +275,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-013",
@@ -263,7 +296,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-014",
@@ -283,7 +317,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-015",
@@ -303,7 +338,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-016",
@@ -323,7 +359,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Action"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-017",
@@ -343,7 +380,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-018",
@@ -363,7 +401,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-019",
@@ -383,7 +422,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udc1f"
     },
     {
       "id": "n-020",
@@ -403,7 +443,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Pre-determined"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-021",
@@ -423,7 +464,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Pre-determined"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-022",
@@ -443,7 +485,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-023",
@@ -463,7 +506,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-024",
@@ -483,7 +527,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/C17/",
+      "emoji": ""
     },
     {
       "id": "n-025",
@@ -503,7 +548,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/C35/",
+      "emoji": ""
     },
     {
       "id": "n-026",
@@ -523,7 +569,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-027",
@@ -543,7 +590,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-028",
@@ -563,7 +611,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Negative Result"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-029",
@@ -583,7 +632,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-030",
@@ -603,7 +653,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-031",
@@ -623,7 +674,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Directions"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-032",
@@ -643,7 +695,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.ices.dk/?codetypeguid=d0268a96-afc9-436e-a4db-4f61c2b9f6ba",
+      "emoji": ""
     },
     {
       "id": "n-033",
@@ -651,7 +704,7 @@
       "height": 76,
       "labels": [
         {
-          "text": "Is it a statistically derived parameter?",
+          "text": "Is it a statistically derived parameter (e.g. mean, max)?",
           "layoutOptions": {
             "elk.category": "Optional",
             "elk.label.position": "CENTER"
@@ -663,7 +716,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-034",
@@ -683,7 +737,29 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-101",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Is it a statistically derived parameter (e.g. mean, max)?",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-035",
@@ -703,7 +779,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-036",
@@ -723,7 +800,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/L05/",
+      "emoji": ""
     },
     {
       "id": "n-037",
@@ -743,7 +821,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/L06/",
+      "emoji": ""
     },
     {
       "id": "n-038",
@@ -763,7 +842,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/L22/",
+      "emoji": ""
     },
     {
       "id": "n-039",
@@ -783,15 +863,16 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-040",
-      "width": 140,
+      "width": 100,
       "height": 48,
       "labels": [
         {
-          "text": "M23 &  M24",
+          "text": "M23",
           "layoutOptions": {
             "elk.category": "Suggestion",
             "elk.label.position": "CENTER"
@@ -803,7 +884,29 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/M23/",
+      "emoji": ""
+    },
+    {
+      "id": "n-120",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "M24",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/M24/",
+      "emoji": ""
     },
     {
       "id": "n-041",
@@ -823,7 +926,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-042",
@@ -843,7 +947,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/P06/",
+      "emoji": ""
     },
     {
       "id": "n-044",
@@ -863,15 +968,16 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Legend"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-045",
-      "width": 356,
+      "width": 344,
       "height": 48,
       "labels": [
         {
-          "text": "Other physical entity  (S29)",
+          "text": "Other physical entity (S29)",
           "layoutOptions": {
             "elk.category": "Suggestion",
             "elk.label.position": "CENTER"
@@ -883,7 +989,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-046",
@@ -903,7 +1010,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S23/",
+      "emoji": ""
     },
     {
       "id": "n-047",
@@ -923,7 +1031,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S24/",
+      "emoji": ""
     },
     {
       "id": "n-048",
@@ -943,7 +1052,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-049",
@@ -963,7 +1073,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-050",
@@ -983,7 +1094,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Legend"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-051",
@@ -1003,7 +1115,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-113",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S03 for Sample preparation",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-114",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S03 for Sample preparation",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-052",
@@ -1023,7 +1178,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-115",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S04 for Analytical methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-116",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S04 for Analytical methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-053",
@@ -1043,7 +1241,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-117",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S05 for Data processing methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-118",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S05 for Data processing methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-054",
@@ -1063,7 +1304,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S10/",
+      "emoji": ""
     },
     {
       "id": "n-055",
@@ -1083,7 +1325,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S11/",
+      "emoji": ""
     },
     {
       "id": "n-056",
@@ -1103,7 +1346,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S14/",
+      "emoji": ""
     },
     {
       "id": "n-057",
@@ -1123,7 +1367,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S15/",
+      "emoji": ""
     },
     {
       "id": "n-058",
@@ -1131,7 +1376,7 @@
       "height": 76,
       "labels": [
         {
-          "text": "S26 or for more specific ranges see:",
+          "text": "S26 or for more specific matrices see:",
           "layoutOptions": {
             "elk.category": "Suggestion",
             "elk.label.position": "CENTER"
@@ -1143,7 +1388,92 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Suggestion"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S26/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-093",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S26 or for more specific matrices see:",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S26/",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-098",
+      "width": 320,
+      "height": 48,
+      "labels": [
+        {
+          "text": "For specific methods see:",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-063",
+      "width": 320,
+      "height": 48,
+      "labels": [
+        {
+          "text": "For specific methods see:",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-119",
+      "width": 320,
+      "height": 48,
+      "labels": [
+        {
+          "text": "For specific methods see:",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-001",
@@ -1163,7 +1493,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Root"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-060",
@@ -1183,7 +1514,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-061",
@@ -1203,7 +1535,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-062",
@@ -1223,27 +1556,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
-    },
-    {
-      "id": "n-063",
-      "width": 368,
-      "height": 76,
-      "labels": [
-        {
-          "text": "See S26  or for more specific ranges see:",
-          "layoutOptions": {
-            "elk.category": "Optional",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Optional"
-      },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udd0e"
     },
     {
       "id": "n-064",
@@ -1263,7 +1577,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Data Attribute"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-065",
@@ -1283,7 +1598,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S21/",
+      "emoji": ""
     },
     {
       "id": "n-066",
@@ -1303,7 +1619,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S22/",
+      "emoji": ""
     },
     {
       "id": "n-067",
@@ -1323,7 +1640,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Legend"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-068",
@@ -1343,7 +1661,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Legend"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-069",
@@ -1363,7 +1682,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-104",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S02 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-105",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S02 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-070",
@@ -1383,7 +1745,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-106",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S06 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-107",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S06 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-071",
@@ -1403,7 +1808,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-108",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S07 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-109",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S07 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-072",
@@ -1423,7 +1871,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S12/",
+      "emoji": "\ud83d\udc1f"
     },
     {
       "id": "n-073",
@@ -1443,7 +1892,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S27/",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-074",
@@ -1463,7 +1913,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S29/",
+      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-075",
@@ -1483,15 +1934,16 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-076",
-      "width": 356,
+      "width": 368,
       "height": 160,
       "labels": [
         {
-          "text": "There are only 3 matrices relevant for OBIS biological data Water body Bed Sediment Look in S26 or S21 for more details",
+          "text": "There are only 3 matrices relevant for OBIS biological data: Water body Bed Sediment Look in S26 or S21 for more details",
           "layoutOptions": {
             "elk.category": "Text Only",
             "elk.label.position": "CENTER"
@@ -1503,7 +1955,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-077",
@@ -1523,7 +1976,50 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-102",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Were any methods used to obtain the measurement?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-103",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Were any methods used to obtain the measurement?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-078",
@@ -1543,7 +2039,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-079",
@@ -1563,7 +2060,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83e\uddea"
     },
     {
       "id": "n-080",
@@ -1583,7 +2081,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udc1f"
     },
     {
       "id": "n-081",
@@ -1603,127 +2102,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
-    },
-    {
-      "id": "n-082",
-      "width": 380,
-      "height": 104,
-      "labels": [
-        {
-          "text": "What is the object of interest that is being measured? Is there a subcomponent?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
-    },
-    {
-      "id": "n-083",
-      "width": 344,
-      "height": 76,
-      "labels": [
-        {
-          "text": "What is the physical entity being measured?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
-    },
-    {
-      "id": "n-084",
-      "width": 332,
-      "height": 76,
-      "labels": [
-        {
-          "text": "What type of (non-numeric) value is it?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
-    },
-    {
-      "id": "n-085",
-      "width": 344,
-      "height": 76,
-      "labels": [
-        {
-          "text": "What type of measurement do you have?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
-    },
-    {
-      "id": "n-086",
-      "width": 380,
-      "height": 76,
-      "labels": [
-        {
-          "text": "What's the measurement-matrix-relationship?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
-    },
-    {
-      "id": "n-087",
-      "width": 308,
-      "height": 76,
-      "labels": [
-        {
-          "text": "Which identifier are you looking for?",
-          "layoutOptions": {
-            "elk.category": "Strongly recommended",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Strongly recommended"
-      },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83d\udc1f"
     },
     {
       "id": "n-088",
@@ -1743,7 +2123,218 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Strongly recommended"
       },
-      "link": ""
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-099",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the measurement property?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-100",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the measurement property?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83d\udd0e"
+    },
+    {
+      "id": "n-082",
+      "width": 380,
+      "height": 104,
+      "labels": [
+        {
+          "text": "What is the object of interest that is being measured? Is there a subcomponent?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-083",
+      "width": 344,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the physical entity being measured?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-084",
+      "width": 332,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What type of (non-numeric) value is it?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-085",
+      "width": 344,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What type of measurement do you have?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-086",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What's the measurement-matrix-relationship?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-110",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What's the measurement-matrix-relationship?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-111",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What's the measurement-matrix-relationship?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-087",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Which identifier are you looking for?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-089",
@@ -1763,7 +2354,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Vocab Term"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-090",
@@ -1783,7 +2375,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Vocab Term"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-091",
@@ -1803,7 +2396,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Vocab Term"
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-092",
@@ -1823,27 +2417,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Optional"
       },
-      "link": ""
-    },
-    {
-      "id": "n-093",
-      "width": 308,
-      "height": 76,
-      "labels": [
-        {
-          "text": "S26 or for more specific ranges see:",
-          "layoutOptions": {
-            "elk.category": "Suggestion",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Suggestion"
-      },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-094",
@@ -1863,7 +2438,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S21/",
+      "emoji": ""
     },
     {
       "id": "n-095",
@@ -1883,7 +2459,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S22/",
+      "emoji": ""
     },
     {
       "id": "n-096",
@@ -1903,7 +2480,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S23/",
+      "emoji": ""
     },
     {
       "id": "n-097",
@@ -1923,27 +2501,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": "Text Only"
       },
-      "link": ""
-    },
-    {
-      "id": "n-098",
-      "width": 368,
-      "height": 76,
-      "labels": [
-        {
-          "text": "See S26  or for more specific ranges see:",
-          "layoutOptions": {
-            "elk.category": "Optional",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Optional"
-      },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "",
@@ -1963,7 +2522,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": ""
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "",
@@ -1983,7 +2543,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": ""
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "",
@@ -2003,7 +2564,8 @@
         "elk.fillColor": "#ffffcc",
         "elk.category": ""
       },
-      "link": ""
+      "link": "",
+      "emoji": ""
     }
   ],
   "edges": [
@@ -2062,9 +2624,18 @@
       ]
     },
     {
-      "id": "e-089-085",
+      "id": "e-089-010",
       "sources": [
         "n-089"
+      ],
+      "targets": [
+        "n-010"
+      ]
+    },
+    {
+      "id": "e-010-085",
+      "sources": [
+        "n-010"
       ],
       "targets": [
         "n-085"
@@ -2107,6 +2678,42 @@
       ]
     },
     {
+      "id": "e-085-028",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-028"
+      ]
+    },
+    {
+      "id": "e-085-026",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-026"
+      ]
+    },
+    {
+      "id": "e-085-048",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-048"
+      ]
+    },
+    {
+      "id": "e-085-062",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-062"
+      ]
+    },
+    {
       "id": "e-022-027",
       "sources": [
         "n-022"
@@ -2122,15 +2729,6 @@
       ],
       "targets": [
         "n-064"
-      ]
-    },
-    {
-      "id": "e-022-030",
-      "sources": [
-        "n-022"
-      ],
-      "targets": [
-        "n-030"
       ]
     },
     {
@@ -2296,57 +2894,12 @@
       ]
     },
     {
-      "id": "e-089-085",
+      "id": "e-029-120",
       "sources": [
-        "n-089"
+        "n-029"
       ],
       "targets": [
-        "n-085"
-      ]
-    },
-    {
-      "id": "e-085-028",
-      "sources": [
-        "n-085"
-      ],
-      "targets": [
-        "n-028"
-      ]
-    },
-    {
-      "id": "e-085-019",
-      "sources": [
-        "n-085"
-      ],
-      "targets": [
-        "n-019"
-      ]
-    },
-    {
-      "id": "e-085-026",
-      "sources": [
-        "n-085"
-      ],
-      "targets": [
-        "n-026"
-      ]
-    },
-    {
-      "id": "e-085-048",
-      "sources": [
-        "n-085"
-      ],
-      "targets": [
-        "n-048"
-      ]
-    },
-    {
-      "id": "e-085-062",
-      "sources": [
-        "n-085"
-      ],
-      "targets": [
-        "n-062"
+        "n-120"
       ]
     },
     {
@@ -2359,36 +2912,27 @@
       ]
     },
     {
-      "id": "e-062-010",
+      "id": "e-062-012",
       "sources": [
         "n-062"
       ],
       "targets": [
-        "n-010"
-      ]
-    },
-    {
-      "id": "e-010-012",
-      "sources": [
-        "n-010"
-      ],
-      "targets": [
         "n-012"
       ]
     },
     {
-      "id": "e-012-081",
+      "id": "e-012-100",
       "sources": [
         "n-012"
       ],
       "targets": [
-        "n-081"
+        "n-100"
       ]
     },
     {
-      "id": "e-081-059",
+      "id": "e-100-059",
       "sources": [
-        "n-081"
+        "n-100"
       ],
       "targets": [
         "n-059"
@@ -2404,45 +2948,36 @@
       ]
     },
     {
-      "id": "e-048-010",
+      "id": "e-048-088",
       "sources": [
         "n-048"
       ],
       "targets": [
-        "n-010"
+        "n-088"
       ]
     },
     {
-      "id": "e-010-081",
+      "id": "e-088-101",
       "sources": [
-        "n-010"
+        "n-088"
       ],
       "targets": [
-        "n-081"
+        "n-101"
       ]
     },
     {
-      "id": "e-081-033",
+      "id": "e-101-108",
       "sources": [
-        "n-081"
+        "n-101"
       ],
       "targets": [
-        "n-033"
+        "n-108"
       ]
     },
     {
-      "id": "e-033-071",
+      "id": "e-101-014",
       "sources": [
-        "n-033"
-      ],
-      "targets": [
-        "n-071"
-      ]
-    },
-    {
-      "id": "e-033-014",
-      "sources": [
-        "n-033"
+        "n-101"
       ],
       "targets": [
         "n-014"
@@ -2530,108 +3065,99 @@
       ]
     },
     {
-      "id": "e-075-086",
+      "id": "e-075-110",
       "sources": [
         "n-075"
       ],
       "targets": [
-        "n-086"
+        "n-110"
       ]
     },
     {
-      "id": "e-086-069",
+      "id": "e-110-104",
       "sources": [
-        "n-086"
+        "n-110"
       ],
       "targets": [
-        "n-069"
+        "n-104"
       ]
     },
     {
-      "id": "e-086-006",
+      "id": "e-110-112",
       "sources": [
-        "n-086"
+        "n-110"
       ],
       "targets": [
-        "n-006"
+        "n-112"
       ]
     },
     {
-      "id": "e-006-002",
+      "id": "e-112-002",
       "sources": [
-        "n-006"
+        "n-112"
       ],
       "targets": [
         "n-002"
       ]
     },
     {
-      "id": "e-002-077",
+      "id": "e-002-102",
       "sources": [
         "n-002"
       ],
       "targets": [
-        "n-077"
+        "n-102"
       ]
     },
     {
-      "id": "e-077-063",
+      "id": "e-102-098",
       "sources": [
-        "n-077"
+        "n-102"
       ],
       "targets": [
-        "n-063"
+        "n-098"
       ]
     },
     {
-      "id": "e-077-009",
+      "id": "e-102-009",
       "sources": [
-        "n-077"
+        "n-102"
       ],
       "targets": [
         "n-009"
       ]
     },
     {
-      "id": "e-063-051",
+      "id": "e-098-113",
       "sources": [
-        "n-063"
+        "n-098"
       ],
       "targets": [
-        "n-051"
+        "n-113"
       ]
     },
     {
-      "id": "e-063-052",
+      "id": "e-098-115",
       "sources": [
-        "n-063"
+        "n-098"
       ],
       "targets": [
-        "n-052"
+        "n-115"
       ]
     },
     {
-      "id": "e-063-053",
+      "id": "e-098-117",
       "sources": [
-        "n-063"
+        "n-098"
       ],
       "targets": [
-        "n-053"
+        "n-117"
       ]
     },
     {
-      "id": "e-026-010",
+      "id": "e-026-078",
       "sources": [
         "n-026"
-      ],
-      "targets": [
-        "n-010"
-      ]
-    },
-    {
-      "id": "e-010-078",
-      "sources": [
-        "n-010"
       ],
       "targets": [
         "n-078"
@@ -2656,36 +3182,36 @@
       ]
     },
     {
-      "id": "e-015-088",
+      "id": "e-015-099",
       "sources": [
         "n-015"
       ],
       "targets": [
-        "n-088"
+        "n-099"
       ]
     },
     {
-      "id": "e-088-092",
+      "id": "e-099-033",
       "sources": [
-        "n-088"
+        "n-099"
       ],
       "targets": [
-        "n-092"
+        "n-033"
       ]
     },
     {
-      "id": "e-092-071",
+      "id": "e-033-109",
       "sources": [
-        "n-092"
+        "n-033"
       ],
       "targets": [
-        "n-071"
+        "n-109"
       ]
     },
     {
-      "id": "e-092-013",
+      "id": "e-033-013",
       "sources": [
-        "n-092"
+        "n-033"
       ],
       "targets": [
         "n-013"
@@ -2710,36 +3236,36 @@
       ]
     },
     {
-      "id": "e-079-058",
+      "id": "e-079-111",
       "sources": [
         "n-079"
       ],
       "targets": [
-        "n-058"
+        "n-111"
       ]
     },
     {
-      "id": "e-093-069",
+      "id": "e-111-105",
       "sources": [
-        "n-093"
+        "n-111"
       ],
       "targets": [
-        "n-069"
+        "n-105"
       ]
     },
     {
-      "id": "e-093-006",
+      "id": "e-111-006",
       "sources": [
-        "n-093"
+        "n-111"
       ],
       "targets": [
         "n-006"
       ]
     },
     {
-      "id": "e-058-094",
+      "id": "e-093-094",
       "sources": [
-        "n-058"
+        "n-093"
       ],
       "targets": [
         "n-094"
@@ -2755,9 +3281,9 @@
       ]
     },
     {
-      "id": "e-058-096",
+      "id": "e-093-096",
       "sources": [
-        "n-058"
+        "n-093"
       ],
       "targets": [
         "n-096"
@@ -2773,30 +3299,30 @@
       ]
     },
     {
-      "id": "e-006-077",
+      "id": "e-006-103",
       "sources": [
         "n-006"
       ],
       "targets": [
-        "n-077"
+        "n-103"
       ]
     },
     {
-      "id": "e-077-003",
+      "id": "e-103-003",
       "sources": [
-        "n-077"
+        "n-103"
       ],
       "targets": [
         "n-003"
       ]
     },
     {
-      "id": "e-077-098",
+      "id": "e-103-119",
       "sources": [
-        "n-077"
+        "n-103"
       ],
       "targets": [
-        "n-098"
+        "n-119"
       ]
     },
     {
@@ -2809,45 +3335,36 @@
       ]
     },
     {
-      "id": "e-098-051",
+      "id": "e-119-114",
       "sources": [
-        "n-098"
+        "n-119"
       ],
       "targets": [
-        "n-051"
+        "n-114"
       ]
     },
     {
-      "id": "e-098-052",
+      "id": "e-119-116",
       "sources": [
-        "n-098"
+        "n-119"
       ],
       "targets": [
-        "n-052"
+        "n-116"
       ]
     },
     {
-      "id": "e-098-053",
+      "id": "e-119-118",
       "sources": [
-        "n-098"
+        "n-119"
       ],
       "targets": [
-        "n-053"
+        "n-118"
       ]
     },
     {
-      "id": "e-019-010",
+      "id": "e-019-082",
       "sources": [
         "n-019"
-      ],
-      "targets": [
-        "n-010"
-      ]
-    },
-    {
-      "id": "e-010-082",
-      "sources": [
-        "n-010"
       ],
       "targets": [
         "n-082"
@@ -2881,15 +3398,6 @@
       ]
     },
     {
-      "id": "e-020-011",
-      "sources": [
-        "n-020"
-      ],
-      "targets": [
-        "n-011"
-      ]
-    },
-    {
       "id": "e-021-011",
       "sources": [
         "n-021"
@@ -2899,18 +3407,27 @@
       ]
     },
     {
-      "id": "e-011-088",
+      "id": "e-020-011",
+      "sources": [
+        "n-020"
+      ],
+      "targets": [
+        "n-011"
+      ]
+    },
+    {
+      "id": "e-011-081",
       "sources": [
         "n-011"
       ],
       "targets": [
-        "n-088"
+        "n-081"
       ]
     },
     {
-      "id": "e-088-034",
+      "id": "e-081-034",
       "sources": [
-        "n-088"
+        "n-081"
       ],
       "targets": [
         "n-034"
