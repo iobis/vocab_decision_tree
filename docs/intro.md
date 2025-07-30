@@ -2,7 +2,7 @@ This decision tree is a tool to assist with finding and selecting appropriate co
 
 # How to Use
 
-When populating a table for the eMoF extension, you should use controlled vocabularies for fields like `measurementType`, `measurementValue`, and `measurementUnit`. Importantly, the corresponding identifier terms—`measurementTypeID`, `measurementValueID`, and `measurementUnitID`—should be used to reference standardized, machine-readable URIs that ensure clarity and consistency across datasets. OBIS recommends vocabularies from the [NERC Vocabulary Server](http://www.bodc.ac.uk/resources/products/web_services/vocab/), though any URI-based controlled vocabulary may be used. 
+When populating a table for the eMoF extension, you should use controlled vocabularies for fields like `measurementType`, `measurementValue`, and `measurementUnit`. Importantly, the corresponding identifier terms — `measurementTypeID`, `measurementValueID`, and `measurementUnitID` — should be used to reference standardized, machine-readable URIs that ensure clarity and consistency across datasets. Although these measurement ID fields are not required, it is highly recommended to populate them as it will make your measurement data more FAIR. OBIS recommends using vocabularies from the [NERC Vocabulary Server](http://www.bodc.ac.uk/resources/products/web_services/vocab/), though any URI-based controlled vocabulary may be used (e.g. ENVO, ICES, etc.).
 
 Click on the nodes of this tree to help you walk through the logic of picking appropriate terms from OBIS recommended vocabularies.
 
