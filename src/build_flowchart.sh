@@ -10,7 +10,4 @@ node run_elk.js
 echo "🖼  Step 3: Generating final SVG from ELK output..."
 python generate_svg.py
 
-echo "🖼  Step 4: Copy SVG to decision tree directory..."
-cp final_flowchart.svg ../flowchart.svg
-
 echo "✅ All done. Final SVG: final_flowchart.svg"

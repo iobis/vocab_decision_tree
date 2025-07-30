@@ -38,14 +38,6 @@ jobs:
     - name: Generate final SVG
       run: python src/generate_svg.py
 
-    - name: Copy output into docs
-      run: |
-        mkdir -p docs
-        cp final_flowchart.svg docs/flowchart.svg
-        cp setup.json docs/
-        cp intro.md docs/
-        cp index.html docs/  # static HTML loader for interactive template
-
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
