@@ -44,7 +44,8 @@ def flat_files_to_elk_with_wrapping(nodes_csv, edges_csv, elk_input_json,
                     "elk.fillColor": color,
                     "elk.category": category
                 },
-                "link": row.get("link", "").strip()
+                "link": row.get("link", "").strip(),
+                "emoji": row.get("emoji", "").strip()
 
             }
             nodes.append(node)
@@ -206,7 +207,19 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
                 "dominant-baseline": "middle",
                 "cursor": "pointer"
             }).text = link_icon
-
+        if node.get("emoji", "").strip():
+            emoji = node["emoji"].strip()
+            emoji_y = center_y - height // 3 + (line_height // 2)  # Top area
+            SubElement(g_node, "text", {
+                "x": str(center_x - width // 2 + 5),  # Left side with padding
+                "y": str(emoji_y),
+                "transform": f"translate({x} {y})",
+                "font-family": "Arial",
+                "font-size": str(font_size+8),
+                "fill": "#666666",
+                "text-anchor": "start",
+                "dominant-baseline": "middle"
+            }).text = emoji
 
     for edge in elk_data["edges"]:
         g_edge = SubElement(frame, "g", {"id": edge["id"]})
