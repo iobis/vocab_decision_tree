@@ -37,9 +37,3 @@ jobs:
 
     - name: Generate final SVG
       run: python src/generate_svg.py
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
