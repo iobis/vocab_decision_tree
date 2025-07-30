@@ -43,8 +43,8 @@ def flat_files_to_elk_with_wrapping(nodes_csv, edges_csv, elk_input_json,
                     "elk.shape": shape,
                     "elk.fillColor": color,
                     "elk.category": category
-                }
-
+                },
+                "link": row.get("link", "").strip()
 
             }
             nodes.append(node)
@@ -94,11 +94,13 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
 
     svg = Element("svg", {
         "xmlns": "http://www.w3.org/2000/svg",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink",  # ← add this line
         "width": str(int(elk_data["width"])),
         "height": str(int(elk_data["height"])),
         "viewBox": f"0 0 {int(elk_data['width'])} {int(elk_data['height'])}",
         "fill": "none"
     })
+
 
     SubElement(svg, "rect", {
         "width": str(int(elk_data["width"])),
@@ -184,6 +186,27 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
                 "text-anchor": "middle",
                 "dominant-baseline": "middle"
             }).text = line
+
+        if node.get("link", "").strip():
+            link = node["link"].strip()
+            link_icon = "🔗"
+            icon_y = center_y + height // 2 - (line_height // 2)
+            icon = SubElement(g_node, "a", {
+                "xlink:href": link,
+                "target": "_blank"
+            })
+            SubElement(icon, "text", {
+                "x": str(center_x + width // 2 - 15),  # adjust offset if needed
+                "y": str(icon_y),
+                "transform": f"translate({x} {y})",
+                "font-family": "Arial",
+                "font-size": str(font_size - 2),
+                "fill": "#007acc",
+                "text-anchor": "end",
+                "dominant-baseline": "middle",
+                "cursor": "pointer"
+            }).text = link_icon
+
 
     for edge in elk_data["edges"]:
         g_edge = SubElement(frame, "g", {"id": edge["id"]})

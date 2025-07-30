@@ -1,0 +1,3073 @@
+{
+  "id": "root",
+  "layoutOptions": {
+    "elk.algorithm": "layered",
+    "elk.direction": "DOWN"
+  },
+  "children": [
+    {
+      "id": "n-059",
+      "width": 380,
+      "height": 132,
+      "labels": [
+        {
+          "text": "ACTION: Browse or search by keyword to find sampling measurement Keep in mind codes names are generic",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-002",
+      "width": 380,
+      "height": 160,
+      "labels": [
+        {
+          "text": "ACTION: Check search results for appropriate P01 codes, while carefully considering all methods used to obtain the measurement",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-003",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "ACTION: Consider all methods used to obtain the measurement",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-004",
+      "width": 368,
+      "height": 132,
+      "labels": [
+        {
+          "text": "ACTION: Consider if the methods used to obtain the measurement are integral for understanding the measurement",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-005",
+      "width": 356,
+      "height": 104,
+      "labels": [
+        {
+          "text": "ACTION: Consider if your biological measurement has a matrix element",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-006",
+      "width": 380,
+      "height": 188,
+      "labels": [
+        {
+          "text": "ACTION: Consider the units of your measurements, whether a sub-group was targeted to help you determine the matrix and measurement-matrix relationship.",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-007",
+      "width": 380,
+      "height": 160,
+      "labels": [
+        {
+          "text": "ACTION: If your measurement occurred within a matrix, consider the relationship between the two (e.g. per unit volume of)",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-008",
+      "width": 380,
+      "height": 160,
+      "labels": [
+        {
+          "text": "ACTION: Look in the search results for a P01 code that best matches your data. Use the guiding questions below to help you narrow the search",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-009",
+      "width": 356,
+      "height": 104,
+      "labels": [
+        {
+          "text": "ACTION: click on link for conceptID and copy whole URI into measurement ID field",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-010",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "ACTION: navigate to SeaDataNet facet search",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": "https://vocab.seadatanet.org/p01-facet-search"
+    },
+    {
+      "id": "n-011",
+      "width": 380,
+      "height": 216,
+      "labels": [
+        {
+          "text": "ACTION: search for \"biological entity specified elsewhere\", then from the Biological Entity (S25) filter, select Biological entity specified elsewhere, including subcomponent where applicable",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-012",
+      "width": 356,
+      "height": 76,
+      "labels": [
+        {
+          "text": "ACTION: search for \"sampling parameter\"",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-013",
+      "width": 380,
+      "height": 160,
+      "labels": [
+        {
+          "text": "ACTION: search for or identify the measurement from \"Measurement Property\". Most likely this will be concentration",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-014",
+      "width": 380,
+      "height": 132,
+      "labels": [
+        {
+          "text": "ACTION: search for the measurement. Be careful not to apply too many filters, as the search may become too narrow",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-015",
+      "width": 380,
+      "height": 104,
+      "labels": [
+        {
+          "text": "ACTION: search for the name of the chemical substance in the Free Search box",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-016",
+      "width": 356,
+      "height": 104,
+      "labels": [
+        {
+          "text": "ACTION: search for your measurement and/or select it from \"Measurement Property\"",
+          "layoutOptions": {
+            "elk.category": "Action",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Action"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-017",
+      "width": 380,
+      "height": 160,
+      "labels": [
+        {
+          "text": "Add new issue to OBISVocabs repository to request creation of a new vocabulary  https://github.com/nvs-vocabs/OBISVocabs/issues",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-018",
+      "width": 128,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Behaviour",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-019",
+      "width": 320,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Biological  (e.g. length, weight, abundance)",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-020",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Biological  entity specified elsewhere  [ no sub-component]",
+          "layoutOptions": {
+            "elk.category": "Pre-determined",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Pre-determined"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-021",
+      "width": 356,
+      "height": 104,
+      "labels": [
+        {
+          "text": "Biological  entity specified elsewhere  [ with sub-component]",
+          "layoutOptions": {
+            "elk.category": "Pre-determined",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Pre-determined"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-022",
+      "width": 224,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Biological entity characteristics",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-023",
+      "width": 368,
+      "height": 104,
+      "labels": [
+        {
+          "text": "Broad habitat description  (e.g. littoral mud)  European Nature Information system",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-024",
+      "width": 224,
+      "height": 48,
+      "labels": [
+        {
+          "text": "C17  (ICES names)",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-025",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "C35",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-026",
+      "width": 320,
+      "height": 104,
+      "labels": [
+        {
+          "text": "Chemical substance  (e.g. concentration, flux, sedimentation rate)",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-027",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Colour",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-028",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Could not identify a suitable measurement ID?",
+          "layoutOptions": {
+            "elk.category": "Negative Result",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Negative Result"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-029",
+      "width": 380,
+      "height": 104,
+      "labels": [
+        {
+          "text": "HELCOM &  Marine Habitat Classification for Britain and Ireland",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-030",
+      "width": 104,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Habitat",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-031",
+      "width": 380,
+      "height": 692,
+      "labels": [
+        {
+          "text": "How to use these decision trees:  These trees are meant to help you identify the important elements within your measurement so that you find the best suited vocabulary code. For all branches related to measurementType, the tree should be used in conjunction with the SeaDataNet facet search to obtain P01 codes.   You will notice other collections (e.g. S07) indicated as you follow along the branches. You do not need to go to these collections to identify sub-elements, these are provided to indicate where that type of information is found. Ultimately you should select a code that best captures your measurementType, measurementUnit, or measurementValue.",
+          "layoutOptions": {
+            "elk.category": "Directions",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Directions"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-032",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "ICES Behaviour codes",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-033",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Is it a statistically derived parameter?",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-034",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Is it a statistically derived parameter? (e.g. mean, max)",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-035",
+      "width": 356,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Is the name and model of the sampling instrument known?",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-036",
+      "width": 224,
+      "height": 48,
+      "labels": [
+        {
+          "text": "L05  (categories)",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-037",
+      "width": 308,
+      "height": 48,
+      "labels": [
+        {
+          "text": "L06  (Platform category)",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-038",
+      "width": 236,
+      "height": 48,
+      "labels": [
+        {
+          "text": "L22  (model names)",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-039",
+      "width": 140,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Life stage",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-040",
+      "width": 140,
+      "height": 48,
+      "labels": [
+        {
+          "text": "M23 &  M24",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-041",
+      "width": 140,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Morphology",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-042",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "NERC  P06 collection",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-044",
+      "width": 116,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Optional",
+          "layoutOptions": {
+            "elk.category": "Legend",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Legend"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-045",
+      "width": 356,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Other physical entity  (S29)",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-046",
+      "width": 128,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Phase S23",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-047",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Phase sub-group  S24",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-048",
+      "width": 320,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Physical or abiotic (e.g. temperature, salinity)",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-049",
+      "width": 332,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Platform or Vessel Codes & Names",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-050",
+      "width": 188,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Pre-determined",
+          "layoutOptions": {
+            "elk.category": "Legend",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Legend"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-051",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S03 for Sample preparation",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-052",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S04 for Analytical methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-053",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S05 for Data processing methods",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-054",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S10",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-055",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S11",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-056",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S14",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-057",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "S15",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-058",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S26 or for more specific ranges see:",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-001",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "START",
+          "layoutOptions": {
+            "elk.category": "Root",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Root"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-060",
+      "width": 344,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sampling device information",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-061",
+      "width": 356,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Sampling device, instrument, platform/vessel information",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-062",
+      "width": 356,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Sampling measurements  (e.g. device, protocol)",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-063",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "See S26  or for more specific ranges see:",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-064",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sex",
+          "layoutOptions": {
+            "elk.category": "Data Attribute",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Data Attribute"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-065",
+      "width": 140,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sphere S21",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-066",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sphere sub-group S22",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-067",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Strongly recommended",
+          "layoutOptions": {
+            "elk.category": "Legend",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Legend"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-068",
+      "width": 284,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Suggested tool/collection/action",
+          "layoutOptions": {
+            "elk.category": "Legend",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Legend"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-069",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S02 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-070",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S06 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-071",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S07 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-072",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S12 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-073",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S27 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-074",
+      "width": 332,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Terms in S29 if interested",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-075",
+      "width": 320,
+      "height": 48,
+      "labels": [
+        {
+          "text": "The environmental matrix?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-076",
+      "width": 356,
+      "height": 160,
+      "labels": [
+        {
+          "text": "There are only 3 matrices relevant for OBIS biological data Water body Bed Sediment Look in S26 or S21 for more details",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-077",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Were any methods used to obtain the measurement?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-078",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the chemical substance being measured ?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-079",
+      "width": 248,
+      "height": 48,
+      "labels": [
+        {
+          "text": "What is the matrix?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-080",
+      "width": 380,
+      "height": 104,
+      "labels": [
+        {
+          "text": "What is the matrix?  (note: most of the time matrix is not needed for biological data)",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-081",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the measurement property?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-082",
+      "width": 380,
+      "height": 104,
+      "labels": [
+        {
+          "text": "What is the object of interest that is being measured? Is there a subcomponent?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-083",
+      "width": 344,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the physical entity being measured?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-084",
+      "width": 332,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What type of (non-numeric) value is it?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-085",
+      "width": 344,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What type of measurement do you have?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-086",
+      "width": 380,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What's the measurement-matrix-relationship?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-087",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Which identifier are you looking for?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-088",
+      "width": 296,
+      "height": 76,
+      "labels": [
+        {
+          "text": "What is the measurement property?",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-089",
+      "width": 224,
+      "height": 48,
+      "labels": [
+        {
+          "text": "measurementTypeID",
+          "layoutOptions": {
+            "elk.category": "Vocab Term",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Vocab Term"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-090",
+      "width": 224,
+      "height": 48,
+      "labels": [
+        {
+          "text": "measurementUnitID",
+          "layoutOptions": {
+            "elk.category": "Vocab Term",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Vocab Term"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-091",
+      "width": 236,
+      "height": 48,
+      "labels": [
+        {
+          "text": "measurementValueID",
+          "layoutOptions": {
+            "elk.category": "Vocab Term",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Vocab Term"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-092",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "Is it a statistically derived parameter?",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-093",
+      "width": 308,
+      "height": 76,
+      "labels": [
+        {
+          "text": "S26 or for more specific ranges see:",
+          "layoutOptions": {
+            "elk.category": "Suggestion",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Suggestion"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-094",
+      "width": 140,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sphere S21",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-095",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Sphere sub-group S22",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-096",
+      "width": 128,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Phase S23",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-097",
+      "width": 260,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Phase sub-group  S24",
+          "layoutOptions": {
+            "elk.category": "Text Only",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Text Only"
+      },
+      "link": ""
+    },
+    {
+      "id": "n-098",
+      "width": 368,
+      "height": 76,
+      "labels": [
+        {
+          "text": "See S26  or for more specific ranges see:",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": "Optional"
+      },
+      "link": ""
+    },
+    {
+      "id": "",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "",
+          "layoutOptions": {
+            "elk.category": "",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": ""
+      },
+      "link": ""
+    },
+    {
+      "id": "",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "",
+          "layoutOptions": {
+            "elk.category": "",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": ""
+      },
+      "link": ""
+    },
+    {
+      "id": "",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "",
+          "layoutOptions": {
+            "elk.category": "",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffffcc",
+        "elk.category": ""
+      },
+      "link": ""
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-001-087",
+      "sources": [
+        "n-001"
+      ],
+      "targets": [
+        "n-087"
+      ]
+    },
+    {
+      "id": "e-087-089",
+      "sources": [
+        "n-087"
+      ],
+      "targets": [
+        "n-089"
+      ]
+    },
+    {
+      "id": "e-087-090",
+      "sources": [
+        "n-087"
+      ],
+      "targets": [
+        "n-090"
+      ]
+    },
+    {
+      "id": "e-087-091",
+      "sources": [
+        "n-087"
+      ],
+      "targets": [
+        "n-091"
+      ]
+    },
+    {
+      "id": "e-090-042",
+      "sources": [
+        "n-090"
+      ],
+      "targets": [
+        "n-042"
+      ]
+    },
+    {
+      "id": "e-091-084",
+      "sources": [
+        "n-091"
+      ],
+      "targets": [
+        "n-084"
+      ]
+    },
+    {
+      "id": "e-089-085",
+      "sources": [
+        "n-089"
+      ],
+      "targets": [
+        "n-085"
+      ]
+    },
+    {
+      "id": "e-085-030",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-030"
+      ]
+    },
+    {
+      "id": "e-085-061",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-061"
+      ]
+    },
+    {
+      "id": "e-085-022",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-022"
+      ]
+    },
+    {
+      "id": "e-085-019",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-019"
+      ]
+    },
+    {
+      "id": "e-022-027",
+      "sources": [
+        "n-022"
+      ],
+      "targets": [
+        "n-027"
+      ]
+    },
+    {
+      "id": "e-022-064",
+      "sources": [
+        "n-022"
+      ],
+      "targets": [
+        "n-064"
+      ]
+    },
+    {
+      "id": "e-022-030",
+      "sources": [
+        "n-022"
+      ],
+      "targets": [
+        "n-030"
+      ]
+    },
+    {
+      "id": "e-022-039",
+      "sources": [
+        "n-022"
+      ],
+      "targets": [
+        "n-039"
+      ]
+    },
+    {
+      "id": "e-022-041",
+      "sources": [
+        "n-022"
+      ],
+      "targets": [
+        "n-041"
+      ]
+    },
+    {
+      "id": "e-064-054",
+      "sources": [
+        "n-064"
+      ],
+      "targets": [
+        "n-054"
+      ]
+    },
+    {
+      "id": "e-039-055",
+      "sources": [
+        "n-039"
+      ],
+      "targets": [
+        "n-055"
+      ]
+    },
+    {
+      "id": "e-041-056",
+      "sources": [
+        "n-041"
+      ],
+      "targets": [
+        "n-056"
+      ]
+    },
+    {
+      "id": "e-027-057",
+      "sources": [
+        "n-027"
+      ],
+      "targets": [
+        "n-057"
+      ]
+    },
+    {
+      "id": "e-018-032",
+      "sources": [
+        "n-018"
+      ],
+      "targets": [
+        "n-032"
+      ]
+    },
+    {
+      "id": "e-061-049",
+      "sources": [
+        "n-061"
+      ],
+      "targets": [
+        "n-049"
+      ]
+    },
+    {
+      "id": "e-061-060",
+      "sources": [
+        "n-061"
+      ],
+      "targets": [
+        "n-060"
+      ]
+    },
+    {
+      "id": "e-049-024",
+      "sources": [
+        "n-049"
+      ],
+      "targets": [
+        "n-024"
+      ]
+    },
+    {
+      "id": "e-049-037",
+      "sources": [
+        "n-049"
+      ],
+      "targets": [
+        "n-037"
+      ]
+    },
+    {
+      "id": "e-060-035",
+      "sources": [
+        "n-060"
+      ],
+      "targets": [
+        "n-035"
+      ]
+    },
+    {
+      "id": "e-035-038",
+      "sources": [
+        "n-035"
+      ],
+      "targets": [
+        "n-038"
+      ]
+    },
+    {
+      "id": "e-035-036",
+      "sources": [
+        "n-035"
+      ],
+      "targets": [
+        "n-036"
+      ]
+    },
+    {
+      "id": "e-030-029",
+      "sources": [
+        "n-030"
+      ],
+      "targets": [
+        "n-029"
+      ]
+    },
+    {
+      "id": "e-030-023",
+      "sources": [
+        "n-030"
+      ],
+      "targets": [
+        "n-023"
+      ]
+    },
+    {
+      "id": "e-023-025",
+      "sources": [
+        "n-023"
+      ],
+      "targets": [
+        "n-025"
+      ]
+    },
+    {
+      "id": "e-029-040",
+      "sources": [
+        "n-029"
+      ],
+      "targets": [
+        "n-040"
+      ]
+    },
+    {
+      "id": "e-089-085",
+      "sources": [
+        "n-089"
+      ],
+      "targets": [
+        "n-085"
+      ]
+    },
+    {
+      "id": "e-085-028",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-028"
+      ]
+    },
+    {
+      "id": "e-085-019",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-019"
+      ]
+    },
+    {
+      "id": "e-085-026",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-026"
+      ]
+    },
+    {
+      "id": "e-085-048",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-048"
+      ]
+    },
+    {
+      "id": "e-085-062",
+      "sources": [
+        "n-085"
+      ],
+      "targets": [
+        "n-062"
+      ]
+    },
+    {
+      "id": "e-028-017",
+      "sources": [
+        "n-028"
+      ],
+      "targets": [
+        "n-017"
+      ]
+    },
+    {
+      "id": "e-062-010",
+      "sources": [
+        "n-062"
+      ],
+      "targets": [
+        "n-010"
+      ]
+    },
+    {
+      "id": "e-010-012",
+      "sources": [
+        "n-010"
+      ],
+      "targets": [
+        "n-012"
+      ]
+    },
+    {
+      "id": "e-012-081",
+      "sources": [
+        "n-012"
+      ],
+      "targets": [
+        "n-081"
+      ]
+    },
+    {
+      "id": "e-081-059",
+      "sources": [
+        "n-081"
+      ],
+      "targets": [
+        "n-059"
+      ]
+    },
+    {
+      "id": "e-059-009",
+      "sources": [
+        "n-059"
+      ],
+      "targets": [
+        "n-009"
+      ]
+    },
+    {
+      "id": "e-048-010",
+      "sources": [
+        "n-048"
+      ],
+      "targets": [
+        "n-010"
+      ]
+    },
+    {
+      "id": "e-010-081",
+      "sources": [
+        "n-010"
+      ],
+      "targets": [
+        "n-081"
+      ]
+    },
+    {
+      "id": "e-081-033",
+      "sources": [
+        "n-081"
+      ],
+      "targets": [
+        "n-033"
+      ]
+    },
+    {
+      "id": "e-033-071",
+      "sources": [
+        "n-033"
+      ],
+      "targets": [
+        "n-071"
+      ]
+    },
+    {
+      "id": "e-033-014",
+      "sources": [
+        "n-033"
+      ],
+      "targets": [
+        "n-014"
+      ]
+    },
+    {
+      "id": "e-014-083",
+      "sources": [
+        "n-014"
+      ],
+      "targets": [
+        "n-083"
+      ]
+    },
+    {
+      "id": "e-083-075",
+      "sources": [
+        "n-083"
+      ],
+      "targets": [
+        "n-075"
+      ]
+    },
+    {
+      "id": "e-083-045",
+      "sources": [
+        "n-083"
+      ],
+      "targets": [
+        "n-045"
+      ]
+    },
+    {
+      "id": "e-045-074",
+      "sources": [
+        "n-045"
+      ],
+      "targets": [
+        "n-074"
+      ]
+    },
+    {
+      "id": "e-075-058",
+      "sources": [
+        "n-075"
+      ],
+      "targets": [
+        "n-058"
+      ]
+    },
+    {
+      "id": "e-058-065",
+      "sources": [
+        "n-058"
+      ],
+      "targets": [
+        "n-065"
+      ]
+    },
+    {
+      "id": "e-065-066",
+      "sources": [
+        "n-065"
+      ],
+      "targets": [
+        "n-066"
+      ]
+    },
+    {
+      "id": "e-058-046",
+      "sources": [
+        "n-058"
+      ],
+      "targets": [
+        "n-046"
+      ]
+    },
+    {
+      "id": "e-046-047",
+      "sources": [
+        "n-046"
+      ],
+      "targets": [
+        "n-047"
+      ]
+    },
+    {
+      "id": "e-075-086",
+      "sources": [
+        "n-075"
+      ],
+      "targets": [
+        "n-086"
+      ]
+    },
+    {
+      "id": "e-086-069",
+      "sources": [
+        "n-086"
+      ],
+      "targets": [
+        "n-069"
+      ]
+    },
+    {
+      "id": "e-086-006",
+      "sources": [
+        "n-086"
+      ],
+      "targets": [
+        "n-006"
+      ]
+    },
+    {
+      "id": "e-006-002",
+      "sources": [
+        "n-006"
+      ],
+      "targets": [
+        "n-002"
+      ]
+    },
+    {
+      "id": "e-002-077",
+      "sources": [
+        "n-002"
+      ],
+      "targets": [
+        "n-077"
+      ]
+    },
+    {
+      "id": "e-077-063",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-063"
+      ]
+    },
+    {
+      "id": "e-077-009",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-009"
+      ]
+    },
+    {
+      "id": "e-063-051",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-051"
+      ]
+    },
+    {
+      "id": "e-063-052",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-052"
+      ]
+    },
+    {
+      "id": "e-063-053",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-053"
+      ]
+    },
+    {
+      "id": "e-026-010",
+      "sources": [
+        "n-026"
+      ],
+      "targets": [
+        "n-010"
+      ]
+    },
+    {
+      "id": "e-010-078",
+      "sources": [
+        "n-010"
+      ],
+      "targets": [
+        "n-078"
+      ]
+    },
+    {
+      "id": "e-078-073",
+      "sources": [
+        "n-078"
+      ],
+      "targets": [
+        "n-073"
+      ]
+    },
+    {
+      "id": "e-078-015",
+      "sources": [
+        "n-078"
+      ],
+      "targets": [
+        "n-015"
+      ]
+    },
+    {
+      "id": "e-015-088",
+      "sources": [
+        "n-015"
+      ],
+      "targets": [
+        "n-088"
+      ]
+    },
+    {
+      "id": "e-088-092",
+      "sources": [
+        "n-088"
+      ],
+      "targets": [
+        "n-092"
+      ]
+    },
+    {
+      "id": "e-092-071",
+      "sources": [
+        "n-092"
+      ],
+      "targets": [
+        "n-071"
+      ]
+    },
+    {
+      "id": "e-092-013",
+      "sources": [
+        "n-092"
+      ],
+      "targets": [
+        "n-013"
+      ]
+    },
+    {
+      "id": "e-013-079",
+      "sources": [
+        "n-013"
+      ],
+      "targets": [
+        "n-079"
+      ]
+    },
+    {
+      "id": "e-079-093",
+      "sources": [
+        "n-079"
+      ],
+      "targets": [
+        "n-093"
+      ]
+    },
+    {
+      "id": "e-079-058",
+      "sources": [
+        "n-079"
+      ],
+      "targets": [
+        "n-058"
+      ]
+    },
+    {
+      "id": "e-093-069",
+      "sources": [
+        "n-093"
+      ],
+      "targets": [
+        "n-069"
+      ]
+    },
+    {
+      "id": "e-093-006",
+      "sources": [
+        "n-093"
+      ],
+      "targets": [
+        "n-006"
+      ]
+    },
+    {
+      "id": "e-058-094",
+      "sources": [
+        "n-058"
+      ],
+      "targets": [
+        "n-094"
+      ]
+    },
+    {
+      "id": "e-094-095",
+      "sources": [
+        "n-094"
+      ],
+      "targets": [
+        "n-095"
+      ]
+    },
+    {
+      "id": "e-058-096",
+      "sources": [
+        "n-058"
+      ],
+      "targets": [
+        "n-096"
+      ]
+    },
+    {
+      "id": "e-096-097",
+      "sources": [
+        "n-096"
+      ],
+      "targets": [
+        "n-097"
+      ]
+    },
+    {
+      "id": "e-006-077",
+      "sources": [
+        "n-006"
+      ],
+      "targets": [
+        "n-077"
+      ]
+    },
+    {
+      "id": "e-077-003",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-003"
+      ]
+    },
+    {
+      "id": "e-077-098",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-098"
+      ]
+    },
+    {
+      "id": "e-003-009",
+      "sources": [
+        "n-003"
+      ],
+      "targets": [
+        "n-009"
+      ]
+    },
+    {
+      "id": "e-098-051",
+      "sources": [
+        "n-098"
+      ],
+      "targets": [
+        "n-051"
+      ]
+    },
+    {
+      "id": "e-098-052",
+      "sources": [
+        "n-098"
+      ],
+      "targets": [
+        "n-052"
+      ]
+    },
+    {
+      "id": "e-098-053",
+      "sources": [
+        "n-098"
+      ],
+      "targets": [
+        "n-053"
+      ]
+    },
+    {
+      "id": "e-019-010",
+      "sources": [
+        "n-019"
+      ],
+      "targets": [
+        "n-010"
+      ]
+    },
+    {
+      "id": "e-010-082",
+      "sources": [
+        "n-010"
+      ],
+      "targets": [
+        "n-082"
+      ]
+    },
+    {
+      "id": "e-082-020",
+      "sources": [
+        "n-082"
+      ],
+      "targets": [
+        "n-020"
+      ]
+    },
+    {
+      "id": "e-082-021",
+      "sources": [
+        "n-082"
+      ],
+      "targets": [
+        "n-021"
+      ]
+    },
+    {
+      "id": "e-021-072",
+      "sources": [
+        "n-021"
+      ],
+      "targets": [
+        "n-072"
+      ]
+    },
+    {
+      "id": "e-020-011",
+      "sources": [
+        "n-020"
+      ],
+      "targets": [
+        "n-011"
+      ]
+    },
+    {
+      "id": "e-021-011",
+      "sources": [
+        "n-021"
+      ],
+      "targets": [
+        "n-011"
+      ]
+    },
+    {
+      "id": "e-011-088",
+      "sources": [
+        "n-011"
+      ],
+      "targets": [
+        "n-088"
+      ]
+    },
+    {
+      "id": "e-088-034",
+      "sources": [
+        "n-088"
+      ],
+      "targets": [
+        "n-034"
+      ]
+    },
+    {
+      "id": "e-034-071",
+      "sources": [
+        "n-034"
+      ],
+      "targets": [
+        "n-071"
+      ]
+    },
+    {
+      "id": "e-034-070",
+      "sources": [
+        "n-034"
+      ],
+      "targets": [
+        "n-070"
+      ]
+    },
+    {
+      "id": "e-034-016",
+      "sources": [
+        "n-034"
+      ],
+      "targets": [
+        "n-016"
+      ]
+    },
+    {
+      "id": "e-016-008",
+      "sources": [
+        "n-016"
+      ],
+      "targets": [
+        "n-008"
+      ]
+    },
+    {
+      "id": "e-008-080",
+      "sources": [
+        "n-008"
+      ],
+      "targets": [
+        "n-080"
+      ]
+    },
+    {
+      "id": "e-080-076",
+      "sources": [
+        "n-080"
+      ],
+      "targets": [
+        "n-076"
+      ]
+    },
+    {
+      "id": "e-080-005",
+      "sources": [
+        "n-080"
+      ],
+      "targets": [
+        "n-005"
+      ]
+    },
+    {
+      "id": "e-005-077",
+      "sources": [
+        "n-005"
+      ],
+      "targets": [
+        "n-077"
+      ]
+    },
+    {
+      "id": "e-077-063",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-063"
+      ]
+    },
+    {
+      "id": "e-077-004",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-004"
+      ]
+    },
+    {
+      "id": "e-063-051",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-051"
+      ]
+    },
+    {
+      "id": "e-063-052",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-052"
+      ]
+    },
+    {
+      "id": "e-063-053",
+      "sources": [
+        "n-063"
+      ],
+      "targets": [
+        "n-053"
+      ]
+    },
+    {
+      "id": "e-004-086",
+      "sources": [
+        "n-004"
+      ],
+      "targets": [
+        "n-086"
+      ]
+    },
+    {
+      "id": "e-086-069",
+      "sources": [
+        "n-086"
+      ],
+      "targets": [
+        "n-069"
+      ]
+    },
+    {
+      "id": "e-086-007",
+      "sources": [
+        "n-086"
+      ],
+      "targets": [
+        "n-007"
+      ]
+    },
+    {
+      "id": "e-007-009",
+      "sources": [
+        "n-007"
+      ],
+      "targets": [
+        "n-009"
+      ]
+    }
+  ]
+}

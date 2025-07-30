@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" width="5279" height="3846" viewBox="0 0 5279 3846" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5279" height="3846" viewBox="0 0 5279 3846" fill="none">
   <rect width="5279" height="3846" fill="#F5F5F5"/>
   <g id="Frame 58">
     <rect width="5279" height="3846" fill="#F2EEE6"/>
@@ -71,6 +71,9 @@
       <rect width="380" height="76" transform="translate(4409 1268)" fill="#e0e0ff" stroke="#000000"/>
       <text x="190" y="24" transform="translate(4409 1268)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">ACTION: navigate to SeaDataNet</text>
       <text x="190" y="52" transform="translate(4409 1268)" font-family="Arial" font-size="20" fill="black" text-anchor="middle" dominant-baseline="middle">facet search</text>
+      <a xlink:href="https://vocab.seadatanet.org/p01-facet-search" target="_blank">
+        <text x="365" y="62" transform="translate(4409 1268)" font-family="Arial" font-size="18" fill="#007acc" text-anchor="end" dominant-baseline="middle" cursor="pointer">🔗</text>
+      </a>
     </g>
     <g id="n-011">
       <rect width="380" height="216" transform="translate(2344 1664)" fill="#e0e0ff" stroke="#000000"/>
