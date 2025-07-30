@@ -10,4 +10,4 @@ node run_elk.js
 echo "🖼  Step 3: Generating final SVG from ELK output..."
 python generate_svg.py
 
-echo "✅ All done. Final SVG: final_flowchart.svg"
+echo "✅ All done. Final SVG: docs/flowchart.svg"
