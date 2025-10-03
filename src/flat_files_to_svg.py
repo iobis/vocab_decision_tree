@@ -20,7 +20,7 @@ def flat_files_to_elk_with_wrapping(nodes_csv, edges_csv, elk_input_json,
             label = row.get("label", row["id"])
             category = str(row.get("category", "")).strip()
             shape = row.get("shape", "rectangle")
-            color = row.get("color", "#ffffcc")
+            color = row.get("color", "#ffcccc")
             wrapped_lines = []
             for para in label.split("\n"):
                 wrapped_lines.extend(textwrap.wrap(para, width=max_chars_per_line))
@@ -121,29 +121,29 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
         x, y = int(node["x"]), int(node["y"])
         def get_node_style(node):
             category_colors = {
-                "Pre-determined": "#cce5ff",
-                "Suggestion": "#d4edda",
-                "Optional": "#fff3cd",
-                "Text Only": "none",
-                "Action": "#e0e0ff",
-                "Recommendation": "#ffe0e0",
-                "Guideline": "#e0f0ff",
-                "Example": "#e6e6e6",
-                "Strongly recommended": "#fff59d",
-                "Negative Result": "#ef9a9a",
-                "Directions": "#d1c4e9",
-                "Legend": "#f5f5f5",
-                "Data Attribute": "#fce4ec",
-                "Vocab Term": "#ffe0b2",
-                "Root": "#d7ccc8"
+                "Pre-determined": ("#328efb", "#ffffff"),
+                "Suggestion": ("#6dfb94", "#333333"),
+                "Optional": ("#6dfb94", "#333333"),
+                "Text Only": ("none", "#333333"),
+                "Action": ("#6631d7", "#ffffff"),
+                "Recommendation": ("#ffe0e0", "#333333"),
+                "Guideline": ("#e0f0ff", "#333333"),
+                "Example": ("#e6e6e6", "#333333"),
+                "Strongly recommended": ("#ebf4ff", "#328efb"),
+                "Negative Result": ("#bd0a0a", "#ffffff"),
+                "Directions": ("#d1c4e9", "#333333"),
+                "Legend": ("#f5f5f5", "#333333"),
+                "Data Attribute": ("#328efb", "#ffffff"),
+                "Vocab Term": ("#328efb", "#ffffff"),
+                "Root": ("#328efb", "#ffffff")
             }
 
-            ellipse_categories = {"Pre-determined", "Suggestion", "Optional"}
+            ellipse_categories = {"Suggestion", "Optional"}
             layout = node.get("layoutOptions", {})
             category = layout.get("elk.category", "").strip()
-            fill = category_colors.get(category, "#f8f9fa")
+            fill, font = category_colors.get(category, ("#f8f9fa", "#333333"))
             shape = "ellipse" if category in ellipse_categories else "none" if category == "Text Only" else "rectangle"
-            return shape, fill
+            return shape, fill, font
 
 
         label = node["labels"][0]["text"]
@@ -157,15 +157,17 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
         center_x = width // 2
         center_y = height // 2
         g_node = SubElement(frame, "g", {"id": node_id})
-        shape, fill = get_node_style(node)
+        shape, fill, font = get_node_style(node)
         if shape == "ellipse":
-            SubElement(g_node, "ellipse", {
-                "cx": str(center_x + x),
-                "cy": str(center_y + y),
-                "rx": str(width / 2),
-                "ry": str(height / 2),
+            SubElement(g_node, "rect", {
+                "width": str(width),
+                "height": str(height),
+                "transform": f"translate({x} {y})",
                 "fill": fill,
-                "stroke": "#000000"
+                "stroke": "#328efb",
+                "stroke-width": "3px",
+                "rx": "30",  # Rounded corners
+                "ry": "30"
             })
         elif shape != "none":
             SubElement(g_node, "rect", {
@@ -173,7 +175,9 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
                 "height": str(height),
                 "transform": f"translate({x} {y})",
                 "fill": fill,
-                "stroke": "#000000"
+                "stroke": fill,
+                "rx": "30",  # Rounded corners
+                "ry": "30"
             })
         for i, line in enumerate(lines):
             line_y = center_y + i * line_height - ((len(lines) - 1) * line_height // 2)
@@ -183,7 +187,8 @@ def elk_json_to_svg(elk_output_json, svg_output_path, max_chars_per_line=30, fon
                 "transform": f"translate({x} {y})",
                 "font-family": "Arial",
                 "font-size": str(font_size),
-                "fill": "black",
+                "fill": font,
+                "font-weight": "bold",
                 "text-anchor": "middle",
                 "dominant-baseline": "middle"
             }).text = line
