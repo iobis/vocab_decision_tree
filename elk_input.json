@@ -20,7 +20,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -41,7 +41,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -62,7 +62,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -83,7 +83,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -104,7 +104,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -125,7 +125,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -146,7 +146,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -167,7 +167,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -188,7 +188,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -209,7 +209,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -230,7 +230,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "https://vocab.seadatanet.org/p01-facet-search",
@@ -251,7 +251,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -272,7 +272,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -293,7 +293,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -314,7 +314,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -335,7 +335,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -356,7 +356,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Action"
       },
       "link": "",
@@ -370,15 +370,15 @@
         {
           "text": "Add new issue to OBISVocabs repository to request creation of a new vocabulary  https://github.com/nvs-vocabs/OBISVocabs/issues",
           "layoutOptions": {
-            "elk.category": "Suggestion",
+            "elk.category": "Action",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Suggestion"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Action"
       },
       "link": "",
       "emoji": ""
@@ -398,7 +398,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -419,7 +419,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -427,11 +427,11 @@
     },
     {
       "id": "n-020",
-      "width": 380,
+      "width": 368,
       "height": 76,
       "labels": [
         {
-          "text": "Biological  entity specified elsewhere  [ no sub-component]",
+          "text": "Biological  entity specified elsewhere  [no sub-component]",
           "layoutOptions": {
             "elk.category": "Pre-determined",
             "elk.label.position": "CENTER"
@@ -440,7 +440,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Pre-determined"
       },
       "link": "",
@@ -452,7 +452,7 @@
       "height": 104,
       "labels": [
         {
-          "text": "Biological  entity specified elsewhere  [ with sub-component]",
+          "text": "Biological  entity specified elsewhere  [with sub-component]",
           "layoutOptions": {
             "elk.category": "Pre-determined",
             "elk.label.position": "CENTER"
@@ -461,7 +461,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Pre-determined"
       },
       "link": "",
@@ -482,7 +482,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -503,7 +503,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -524,7 +524,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/C17/",
@@ -545,7 +545,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/C35/",
@@ -566,7 +566,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -587,7 +587,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -608,7 +608,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Negative Result"
       },
       "link": "",
@@ -629,7 +629,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -650,7 +650,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -671,7 +671,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Directions"
       },
       "link": "",
@@ -692,74 +692,11 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.ices.dk/?codetypeguid=d0268a96-afc9-436e-a4db-4f61c2b9f6ba",
       "emoji": ""
-    },
-    {
-      "id": "n-033",
-      "width": 368,
-      "height": 76,
-      "labels": [
-        {
-          "text": "Is it a statistically derived parameter (e.g. mean, max)?",
-          "layoutOptions": {
-            "elk.category": "Optional",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Optional"
-      },
-      "link": "",
-      "emoji": "\ud83e\uddea"
-    },
-    {
-      "id": "n-034",
-      "width": 368,
-      "height": 76,
-      "labels": [
-        {
-          "text": "Is it a statistically derived parameter? (e.g. mean, max)",
-          "layoutOptions": {
-            "elk.category": "Optional",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Optional"
-      },
-      "link": "",
-      "emoji": "\ud83d\udc1f"
-    },
-    {
-      "id": "n-101",
-      "width": 368,
-      "height": 76,
-      "labels": [
-        {
-          "text": "Is it a statistically derived parameter (e.g. mean, max)?",
-          "layoutOptions": {
-            "elk.category": "Optional",
-            "elk.label.position": "CENTER"
-          }
-        }
-      ],
-      "layoutOptions": {
-        "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Optional"
-      },
-      "link": "",
-      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-035",
@@ -776,7 +713,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "",
@@ -797,7 +734,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/L05/",
@@ -818,7 +755,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/L06/",
@@ -839,7 +776,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/L22/",
@@ -860,7 +797,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -881,7 +818,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/M23/",
@@ -902,7 +839,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/M24/",
@@ -923,7 +860,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -944,7 +881,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/P06/",
@@ -965,7 +902,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Legend"
       },
       "link": "",
@@ -986,7 +923,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "",
@@ -1000,15 +937,15 @@
         {
           "text": "Phase S23",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S23/",
       "emoji": ""
@@ -1021,15 +958,15 @@
         {
           "text": "Phase sub-group  S24",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S24/",
       "emoji": ""
@@ -1049,7 +986,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1070,7 +1007,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1091,7 +1028,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Legend"
       },
       "link": "",
@@ -1105,15 +1042,15 @@
         {
           "text": "S03 for Sample preparation",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
       "emoji": "\ud83d\udc1f"
@@ -1126,15 +1063,15 @@
         {
           "text": "S03 for Sample preparation",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
       "emoji": "\ud83c\udf21\ufe0f"
@@ -1147,15 +1084,15 @@
         {
           "text": "S03 for Sample preparation",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S03/",
       "emoji": "\ud83e\uddea"
@@ -1168,15 +1105,15 @@
         {
           "text": "S04 for Analytical methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
       "emoji": "\ud83d\udc1f"
@@ -1189,15 +1126,15 @@
         {
           "text": "S04 for Analytical methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
       "emoji": "\ud83c\udf21\ufe0f"
@@ -1210,15 +1147,15 @@
         {
           "text": "S04 for Analytical methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S04/",
       "emoji": "\ud83e\uddea"
@@ -1231,15 +1168,15 @@
         {
           "text": "S05 for Data processing methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
       "emoji": "\ud83d\udc1f"
@@ -1252,15 +1189,15 @@
         {
           "text": "S05 for Data processing methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
       "emoji": "\ud83c\udf21\ufe0f"
@@ -1273,15 +1210,15 @@
         {
           "text": "S05 for Data processing methods",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S05/",
       "emoji": "\ud83e\uddea"
@@ -1301,7 +1238,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S10/",
@@ -1322,7 +1259,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S11/",
@@ -1343,7 +1280,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S14/",
@@ -1364,7 +1301,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S15/",
@@ -1385,7 +1322,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S26/",
@@ -1406,7 +1343,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Suggestion"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S26/",
@@ -1427,7 +1364,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "",
@@ -1448,7 +1385,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "",
@@ -1469,7 +1406,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "",
@@ -1490,7 +1427,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Root"
       },
       "link": "",
@@ -1511,7 +1448,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1532,7 +1469,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1553,7 +1490,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1574,7 +1511,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Data Attribute"
       },
       "link": "",
@@ -1588,15 +1525,15 @@
         {
           "text": "Sphere S21",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S21/",
       "emoji": ""
@@ -1609,15 +1546,15 @@
         {
           "text": "Sphere sub-group S22",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S22/",
       "emoji": ""
@@ -1637,7 +1574,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Legend"
       },
       "link": "",
@@ -1658,7 +1595,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Legend"
       },
       "link": "",
@@ -1679,7 +1616,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
@@ -1700,7 +1637,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
@@ -1721,7 +1658,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S02/",
@@ -1742,10 +1679,10 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
-      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S06/",
       "emoji": "\ud83d\udc1f"
     },
     {
@@ -1763,10 +1700,10 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
-      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S06/",
       "emoji": "\ud83c\udf21\ufe0f"
     },
     {
@@ -1784,10 +1721,10 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
-      "link": "https://vocab.nerc.ac.uk/collection/S06/current/",
+      "link": "https://vocab.nerc.ac.uk/search_nvs/S06/",
       "emoji": "\ud83e\uddea"
     },
     {
@@ -1805,7 +1742,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
@@ -1826,7 +1763,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
@@ -1847,7 +1784,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S07/",
@@ -1868,7 +1805,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S12/",
@@ -1889,7 +1826,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S27/",
@@ -1910,7 +1847,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S29/",
@@ -1931,7 +1868,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -1939,11 +1876,11 @@
     },
     {
       "id": "n-076",
-      "width": 368,
+      "width": 344,
       "height": 160,
       "labels": [
         {
-          "text": "There are only 3 matrices relevant for OBIS biological data: Water body Bed Sediment Look in S26 or S21 for more details",
+          "text": "Note: There are only 3 matrices relevant for OBIS biological data: Water body Bed Sediment Look in S26 or S21 for more details",
           "layoutOptions": {
             "elk.category": "Text Only",
             "elk.label.position": "CENTER"
@@ -1952,7 +1889,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Text Only"
       },
       "link": "",
@@ -1973,7 +1910,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -1994,7 +1931,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2015,11 +1952,137 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
       "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-121",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-122",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-123",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-124",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-125",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
+    },
+    {
+      "id": "n-126",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Strongly recommended",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Strongly recommended"
+      },
+      "link": "",
+      "emoji": ""
     },
     {
       "id": "n-078",
@@ -2036,7 +2099,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2057,7 +2120,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2078,7 +2141,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2086,11 +2149,11 @@
     },
     {
       "id": "n-081",
-      "width": 296,
-      "height": 76,
+      "width": 344,
+      "height": 132,
       "labels": [
         {
-          "text": "What is the measurement property?",
+          "text": "What is the measurement property: Is it a statistically derived parameter (e.g. mean, max)?",
           "layoutOptions": {
             "elk.category": "Strongly recommended",
             "elk.label.position": "CENTER"
@@ -2099,7 +2162,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2107,11 +2170,11 @@
     },
     {
       "id": "n-088",
-      "width": 296,
-      "height": 76,
+      "width": 344,
+      "height": 132,
       "labels": [
         {
-          "text": "What is the measurement property?",
+          "text": "What is the measurement property: Is it a statistically derived parameter (e.g. mean, max)?",
           "layoutOptions": {
             "elk.category": "Strongly recommended",
             "elk.label.position": "CENTER"
@@ -2120,7 +2183,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2128,11 +2191,11 @@
     },
     {
       "id": "n-099",
-      "width": 296,
-      "height": 76,
+      "width": 344,
+      "height": 132,
       "labels": [
         {
-          "text": "What is the measurement property?",
+          "text": "What is the measurement property: Is it a statistically derived parameter (e.g. mean, max)?",
           "layoutOptions": {
             "elk.category": "Strongly recommended",
             "elk.label.position": "CENTER"
@@ -2141,7 +2204,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2162,11 +2225,137 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
       "emoji": "\ud83d\udd0e"
+    },
+    {
+      "id": "n-033",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-034",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-101",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "Yes",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
+    },
+    {
+      "id": "n-127",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "id": "n-128",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83d\udc1f"
+    },
+    {
+      "id": "n-129",
+      "width": 100,
+      "height": 48,
+      "labels": [
+        {
+          "text": "No",
+          "layoutOptions": {
+            "elk.category": "Optional",
+            "elk.label.position": "CENTER"
+          }
+        }
+      ],
+      "layoutOptions": {
+        "elk.shape": "rectangle",
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
+      },
+      "link": "",
+      "emoji": "\ud83c\udf21\ufe0f"
     },
     {
       "id": "n-082",
@@ -2183,7 +2372,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2204,7 +2393,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2225,7 +2414,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2246,7 +2435,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2267,7 +2456,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2288,7 +2477,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2309,7 +2498,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2330,7 +2519,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Strongly recommended"
       },
       "link": "",
@@ -2351,7 +2540,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Vocab Term"
       },
       "link": "",
@@ -2372,7 +2561,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Vocab Term"
       },
       "link": "",
@@ -2393,7 +2582,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": "Vocab Term"
       },
       "link": "",
@@ -2407,15 +2596,15 @@
         {
           "text": "Sphere S21",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S21/",
       "emoji": ""
@@ -2428,15 +2617,15 @@
         {
           "text": "Sphere sub-group S22",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S22/",
       "emoji": ""
@@ -2449,15 +2638,15 @@
         {
           "text": "Phase S23",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "https://vocab.nerc.ac.uk/search_nvs/S23/",
       "emoji": ""
@@ -2470,15 +2659,15 @@
         {
           "text": "Phase sub-group  S24",
           "layoutOptions": {
-            "elk.category": "Text Only",
+            "elk.category": "Optional",
             "elk.label.position": "CENTER"
           }
         }
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
-        "elk.category": "Text Only"
+        "elk.fillColor": "#ffcccc",
+        "elk.category": "Optional"
       },
       "link": "",
       "emoji": ""
@@ -2498,7 +2687,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": ""
       },
       "link": "",
@@ -2519,7 +2708,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": ""
       },
       "link": "",
@@ -2540,7 +2729,7 @@
       ],
       "layoutOptions": {
         "elk.shape": "rectangle",
-        "elk.fillColor": "#ffffcc",
+        "elk.fillColor": "#ffcccc",
         "elk.category": ""
       },
       "link": "",
@@ -2954,6 +3143,15 @@
       ]
     },
     {
+      "id": "e-088-129",
+      "sources": [
+        "n-088"
+      ],
+      "targets": [
+        "n-129"
+      ]
+    },
+    {
       "id": "e-101-108",
       "sources": [
         "n-101"
@@ -2963,18 +3161,18 @@
       ]
     },
     {
-      "id": "e-101-106",
+      "id": "e-129-106",
       "sources": [
-        "n-101"
+        "n-129"
       ],
       "targets": [
         "n-106"
       ]
     },
     {
-      "id": "e-101-014",
+      "id": "e-088-014",
       "sources": [
-        "n-101"
+        "n-088"
       ],
       "targets": [
         "n-014"
@@ -3107,18 +3305,36 @@
       ]
     },
     {
-      "id": "e-102-098",
+      "id": "e-102-123",
       "sources": [
         "n-102"
+      ],
+      "targets": [
+        "n-123"
+      ]
+    },
+    {
+      "id": "e-102-124",
+      "sources": [
+        "n-102"
+      ],
+      "targets": [
+        "n-124"
+      ]
+    },
+    {
+      "id": "e-123-098",
+      "sources": [
+        "n-123"
       ],
       "targets": [
         "n-098"
       ]
     },
     {
-      "id": "e-102-009",
+      "id": "e-124-009",
       "sources": [
-        "n-102"
+        "n-124"
       ],
       "targets": [
         "n-009"
@@ -3197,6 +3413,15 @@
       ]
     },
     {
+      "id": "e-099-127",
+      "sources": [
+        "n-099"
+      ],
+      "targets": [
+        "n-127"
+      ]
+    },
+    {
       "id": "e-033-109",
       "sources": [
         "n-033"
@@ -3206,18 +3431,18 @@
       ]
     },
     {
-      "id": "e-033-107",
+      "id": "e-127-107",
       "sources": [
-        "n-033"
+        "n-127"
       ],
       "targets": [
         "n-107"
       ]
     },
     {
-      "id": "e-033-013",
+      "id": "e-099-013",
       "sources": [
-        "n-033"
+        "n-099"
       ],
       "targets": [
         "n-013"
@@ -3314,21 +3539,39 @@
       ]
     },
     {
-      "id": "e-103-003",
+      "id": "e-103-125",
       "sources": [
         "n-103"
       ],
       "targets": [
-        "n-003"
+        "n-125"
       ]
     },
     {
-      "id": "e-103-119",
+      "id": "e-103-126",
       "sources": [
         "n-103"
       ],
       "targets": [
+        "n-126"
+      ]
+    },
+    {
+      "id": "e-125-119",
+      "sources": [
+        "n-125"
+      ],
+      "targets": [
         "n-119"
+      ]
+    },
+    {
+      "id": "e-126-003",
+      "sources": [
+        "n-126"
+      ],
+      "targets": [
+        "n-003"
       ]
     },
     {
@@ -3440,6 +3683,15 @@
       ]
     },
     {
+      "id": "e-081-128",
+      "sources": [
+        "n-081"
+      ],
+      "targets": [
+        "n-128"
+      ]
+    },
+    {
       "id": "e-034-071",
       "sources": [
         "n-034"
@@ -3449,18 +3701,18 @@
       ]
     },
     {
-      "id": "e-034-070",
+      "id": "e-128-070",
       "sources": [
-        "n-034"
+        "n-128"
       ],
       "targets": [
         "n-070"
       ]
     },
     {
-      "id": "e-034-016",
+      "id": "e-081-016",
       "sources": [
-        "n-034"
+        "n-081"
       ],
       "targets": [
         "n-016"
@@ -3494,9 +3746,9 @@
       ]
     },
     {
-      "id": "e-080-005",
+      "id": "e-076-005",
       "sources": [
-        "n-080"
+        "n-076"
       ],
       "targets": [
         "n-005"
@@ -3512,18 +3764,36 @@
       ]
     },
     {
-      "id": "e-077-063",
+      "id": "e-077-121",
       "sources": [
         "n-077"
+      ],
+      "targets": [
+        "n-121"
+      ]
+    },
+    {
+      "id": "e-077-122",
+      "sources": [
+        "n-077"
+      ],
+      "targets": [
+        "n-122"
+      ]
+    },
+    {
+      "id": "e-121-063",
+      "sources": [
+        "n-121"
       ],
       "targets": [
         "n-063"
       ]
     },
     {
-      "id": "e-077-004",
+      "id": "e-122-004",
       "sources": [
-        "n-077"
+        "n-122"
       ],
       "targets": [
         "n-004"
