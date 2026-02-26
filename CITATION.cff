@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: Vocabulary decision tree
+type: dataset
+abstract: Interactive vocabulary decision tree for OBIS manual
+url: https://github.com/iobis/vocab_decision_tree
+license: CC-BY-IGO-4.0
+authors:
+  - given-names: Stephen
+    family-names: Formel
+    orcid: "https://orcid.org/0000-0001-7418-1244"
+  - given-names: Elizabeth
+    family-names: Lawrence
+    orcid: "https://orcid.org/0000-0002-5304-941X"
+  - given-names: GitHub
+    family-names: Actions
+  - family-names: sformel
+  - name: Intergovernmental Oceanographic Commission of UNESCO
+    alias: IOC-UNESCO
+    website: "https://obis.org"
+date-released: 2025-10-03
